@@ -1,0 +1,1653 @@
+---CLASS1----------------------------------------------exploide : / insert  1 / exploide 2 with space / insert 0 and the rest is country code 
+tmp/list.txt:187.126.31.191:8080 BR-N-S 
+tmp/list.txt:91.109.244.96:3128 GB-N 
+tmp/list.txt:92.63.171.140:8118 NL-H 
+tmp/list.txt:190.198.158.34:8080 VE-A 
+tmp/list.txt:91.121.167.5:8118 FR-H 
+tmp/list.txt:84.253.75.6:8080 RU-A-S 
+tmp/list.txt:178.158.247.213:3128 UA-N-S 
+tmp/list.txt:54.93.77.63:3128 DE-A-S 
+tmp/list.txt:54.149.140.120:3128 US-N-S 
+tmp/list.txt:186.225.37.137:8080 BR-N-S! 
+tmp/list.txt:162.243.155.182:3333 US-N 
+tmp/list.txt:85.70.179.49:8080 CZ-N-S 
+tmp/list.txt:122.72.62.60:80 CN-N 
+tmp/list.txt:200.169.142.73:80 BR-A! 
+tmp/list.txt:195.158.102.73:8080 MT-N-S 
+tmp/list.txt:183.203.208.169:8118 CN-A 
+tmp/list.txt:60.195.222.71:8118 CN-A 
+tmp/list.txt:196.201.7.172:8080 ZA-N 
+tmp/list.txt:125.167.183.193:8080 ID-N-S 
+tmp/list.txt:190.39.50.189:8080 VE-A 
+tmp/list.txt:54.64.140.6:8080 JP-N 
+tmp/list.txt:46.201.241.136:8080 UA-N 
+tmp/list.txt:80.69.243.156:9090 IR-N-S! 
+tmp/list.txt:193.105.235.1:8080 RU-N 
+tmp/list.txt:179.41.2.133:3128 AR-N-S 
+tmp/list.txt:175.43.20.95:80 CN-A-S 
+tmp/list.txt:89.46.101.115:3130 RO-N-S 
+tmp/list.txt:124.88.67.13:82 CN-A 
+tmp/list.txt:95.172.42.122:8080 RU-N-S 
+tmp/list.txt:109.207.54.81:8080 PL-N-S! 
+tmp/list.txt:84.38.176.55:8080 RU-N-S 
+tmp/list.txt:180.183.136.155:8080 TH-N-S 
+tmp/list.txt:220.248.41.106:110 CN-N-S 
+tmp/list.txt:41.222.44.42:8080 NG-N 
+tmp/list.txt:222.124.177.162:80 ID-N-S 
+tmp/list.txt:212.33.221.132:8080 IR-N-S 
+tmp/list.txt:186.121.210.226:8080 BO-N 
+tmp/list.txt:188.254.101.235:8000 RU-N-S 
+tmp/list.txt:197.254.115.110:8080 KE-N-S 
+tmp/list.txt:195.191.79.1:8080 RU-N! 
+tmp/list.txt:46.211.210.97:3128 UA-H 
+tmp/list.txt:115.28.11.130:3128 CN-N 
+tmp/list.txt:37.239.46.74:80 IQ-H 
+tmp/list.txt:200.11.228.84:3128 VE-A 
+tmp/list.txt:5.56.61.185:19350 ES-A-S 
+tmp/list.txt:109.207.50.105:8080 PL-N-S 
+tmp/list.txt:174.32.109.26:87 US-N! 
+tmp/list.txt:206.17.20.75:3128 US-N-S 
+tmp/list.txt:104.236.128.223:80 US-N 
+tmp/list.txt:82.151.117.162:8080 RU-N 
+tmp/list.txt:37.187.253.39:8118 FR-H-S! 
+tmp/list.txt:91.211.245.50:7808 LT-A 
+tmp/list.txt:54.69.229.8:8001 US-N 
+tmp/list.txt:58.254.132.81:8001 CN-N-S 
+tmp/list.txt:193.63.43.64:8000 GB-H! 
+tmp/list.txt:125.99.120.186:8080 IN-N 
+tmp/list.txt:180.183.50.231:8080 TH-N-S! 
+tmp/list.txt:186.116.8.170:8080 CO-N 
+tmp/list.txt:59.40.255.148:8118 CN-A 
+tmp/list.txt:124.88.67.24:83 CN-A 
+tmp/list.txt:219.223.190.90:3128 CN-N 
+tmp/list.txt:187.102.169.212:3128 BR-N! 
+tmp/list.txt:207.226.141.219:8118 US-H 
+tmp/list.txt:91.189.165.149:8080 RU-N-S 
+tmp/list.txt:180.211.159.166:8080 BD-N-S 
+tmp/list.txt:210.101.131.227:8080 KR-H 
+tmp/list.txt:212.3.183.218:8080 IT-A! 
+tmp/list.txt:176.194.189.56:8080 RU-N-S 
+tmp/list.txt:101.71.27.120:80 CN-A 
+tmp/list.txt:124.202.217.134:8118 CN-A! 
+tmp/list.txt:211.90.30.152:80 CN-N 
+tmp/list.txt:109.120.165.146:3128 RU-H 
+tmp/list.txt:183.131.144.204:443 CN-H 
+tmp/list.txt:197.254.118.14:8080 KE-N 
+tmp/list.txt:31.146.182.122:443 GE-N-S 
+tmp/list.txt:183.136.135.153:8080 CN-A 
+tmp/list.txt:27.106.33.161:8080 IN-N! 
+tmp/list.txt:187.102.169.210:3128 BR-N 
+tmp/list.txt:119.110.73.130:8080 ID-N-S 
+tmp/list.txt:54.173.249.44:3128 US-N 
+tmp/list.txt:91.229.20.73:80 FR-H 
+tmp/list.txt:84.236.134.2:8080 ES-N! 
+tmp/list.txt:83.146.70.84:3128 RU-N-S 
+tmp/list.txt:79.124.13.250:8008 BG-H 
+tmp/list.txt:54.187.52.159:3128 US-N! 
+tmp/list.txt:80.191.193.31:3128 IR-N 
+tmp/list.txt:111.243.114.159:8118 TW-H-S 
+tmp/list.txt:69.57.48.251:8080 US-N-S 
+tmp/list.txt:77.50.220.92:8080 RU-N! 
+tmp/list.txt:54.64.75.254:80 JP-A 
+tmp/list.txt:86.107.110.73:8089 RO-A 
+tmp/list.txt:109.197.92.60:8080 RU-N-S 
+tmp/list.txt:103.245.181.107:8080 ID-N-S 
+tmp/list.txt:115.117.45.8:8080 IN-N-S 
+tmp/list.txt:177.86.24.194:8080 BR-N 
+tmp/list.txt:200.253.116.3:3128 BR-N 
+tmp/list.txt:191.240.139.128:8080 BR-N! 
+tmp/list.txt:77.37.130.244:8080 RU-H 
+tmp/list.txt:222.89.154.18:8080 CN-N-S! 
+tmp/list.txt:179.107.142.54:3128 BR-A-S! 
+tmp/list.txt:109.207.53.26:8080 PL-N-S 
+tmp/list.txt:80.191.227.247:8080 IR-N 
+tmp/list.txt:212.25.61.158:8080 BG-N 
+tmp/list.txt:146.148.120.126:3128 US-N 
+tmp/list.txt:87.119.208.30:80 DE-H 
+tmp/list.txt:177.159.142.66:8080 BR-N-S 
+tmp/list.txt:167.114.144.14:3128 CA-A-S 
+tmp/list.txt:81.181.81.26:3128 RO-N-S 
+tmp/list.txt:37.187.97.36:3128 FR-A 
+tmp/list.txt:201.59.174.194:80 BR-N 
+tmp/list.txt:217.107.192.35:3128 RU-N 
+tmp/list.txt:88.159.239.129:80 NL-A 
+tmp/list.txt:211.68.122.171:80 CN-N 
+tmp/list.txt:222.124.12.19:8080 ID-A 
+tmp/list.txt:195.189.123.135:3128 RU-N 
+tmp/list.txt:106.185.41.170:8081 JP-A 
+tmp/list.txt:112.150.156.223:3128 KR-N-S 
+tmp/list.txt:59.144.8.142:8080 IN-A-S! 
+tmp/list.txt:130.211.139.38:3128 US-H 
+tmp/list.txt:194.44.193.49:8080 UA-N-S! 
+tmp/list.txt:177.38.37.235:3128 BR-N-S 
+tmp/list.txt:203.130.194.60:8080 ID-N-S! 
+tmp/list.txt:190.234.83.82:8080 PE-N 
+tmp/list.txt:125.39.66.66:80 CN-N 
+tmp/list.txt:138.0.253.18:8080 BR-A! 
+tmp/list.txt:5.133.13.12:7777 PL-N-S 
+tmp/list.txt:208.74.182.153:3128 US-N 
+tmp/list.txt:109.207.51.254:8080 PL-N-S 
+tmp/list.txt:219.137.229.146:9797 CN-N 
+tmp/list.txt:118.229.239.17:8080 CN-N 
+tmp/list.txt:195.208.151.61:8080 RU-N-S 
+tmp/list.txt:119.2.66.222:8080 ID-N-S 
+tmp/list.txt:219.133.31.120:8888 CN-H 
+tmp/list.txt:202.93.128.42:8080 ID-N 
+tmp/list.txt:83.220.42.106:8080 RU-N 
+tmp/list.txt:187.123.60.149:3128 BR-N 
+tmp/list.txt:37.187.152.232:80 FR-A 
+tmp/list.txt:175.136.239.174:8080 MY-N 
+tmp/list.txt:60.207.228.235:80 CN-N 
+tmp/list.txt:27.44.172.155:9999 CN-N-S 
+tmp/list.txt:104.154.65.74:3128 US-H 
+tmp/list.txt:88.150.136.181:3129 GB-A! 
+tmp/list.txt:37.200.99.210:8118 DE-H-S! 
+tmp/list.txt:45.55.183.138:3128 US-A 
+tmp/list.txt:202.55.23.144:80 HK-N! 
+tmp/list.txt:87.251.187.34:8080 RU-N-S 
+tmp/list.txt:87.237.44.27:8080 RU-N-S 
+tmp/list.txt:101.4.136.66:80 CN-A 
+tmp/list.txt:54.64.0.171:3128 JP-N 
+tmp/list.txt:185.37.226.107:18055 ES-A-S 
+tmp/list.txt:211.141.133.100:8118 CN-A 
+tmp/list.txt:112.124.51.136:808 CN-H-S 
+tmp/list.txt:202.108.50.75:80 CN-A 
+tmp/list.txt:210.245.31.15:80 VN-H-S 
+tmp/list.txt:182.18.58.2:9080 CN-A 
+tmp/list.txt:181.224.230.25:8080 PE-N! 
+tmp/list.txt:212.13.49.186:8085 PT-N-S 
+tmp/list.txt:85.202.7.27:8080 RU-N 
+tmp/list.txt:177.126.89.27:3128 BR-N-S 
+tmp/list.txt:62.209.225.107:8080 CZ-N 
+tmp/list.txt:109.224.56.210:8080 IQ-N 
+tmp/list.txt:1.227.56.236:3128 KR-N-S 
+tmp/list.txt:117.121.17.104:8080 CN-N 
+tmp/list.txt:179.185.111.26:8080 BR-N 
+tmp/list.txt:184.172.188.36:80 US-H 
+tmp/list.txt:163.177.79.4:8102 CN-N 
+tmp/list.txt:196.201.218.203:7425 KE-H 
+tmp/list.txt:201.163.96.102:8080 MX-N 
+tmp/list.txt:62.109.30.95:3128 RU-N 
+tmp/list.txt:190.200.33.219:8080 VE-A 
+tmp/list.txt:86.57.137.219:3128 BY-H 
+tmp/list.txt:202.100.166.132:80 CN-A 
+tmp/list.txt:124.202.208.18:8118 CN-A! 
+tmp/list.txt:36.78.166.126:8080 ID-N 
+tmp/list.txt:79.143.181.127:3128 DE-A-S 
+tmp/list.txt:119.28.3.200:83 CN-A 
+tmp/list.txt:78.131.56.64:8080 HU-N 
+tmp/list.txt:124.202.181.6:8118 CN-A! 
+tmp/list.txt:201.248.247.187:8080 VE-A 
+tmp/list.txt:190.152.212.194:3128 EC-N 
+tmp/list.txt:114.80.182.132:80 CN-A 
+tmp/list.txt:199.200.120.37:3127 US-A 
+tmp/list.txt:89.23.196.60:8081 RU-N-S 
+tmp/list.txt:183.91.87.66:8080 ID-N 
+tmp/list.txt:188.165.223.173:8112 FR-H! 
+tmp/list.txt:77.78.31.3:8080 BG-N-S 
+tmp/list.txt:64.76.23.186:80 AR-H! 
+tmp/list.txt:92.50.31.129:8080 IR-N-S 
+tmp/list.txt:94.158.175.226:8080 RU-N-S 
+tmp/list.txt:197.160.78.96:8080 EG-N 
+tmp/list.txt:195.154.136.111:3128 FR-A-S 
+tmp/list.txt:64.186.47.179:8080 US-N 
+tmp/list.txt:82.117.234.20:8888 UA-N! 
+tmp/list.txt:212.68.34.72:8080 TR-N-S! 
+tmp/list.txt:81.29.251.177:8080 IR-N 
+tmp/list.txt:58.68.145.39:80 CN-N-S 
+tmp/list.txt:177.6.219.147:8080 BR-N-S 
+tmp/list.txt:191.236.195.80:8080 US-A-S 
+tmp/list.txt:5.226.86.83:80 PL-H 
+tmp/list.txt:189.17.66.162:8080 BR-N 
+tmp/list.txt:78.47.35.29:8080 DE-N-S 
+tmp/list.txt:180.254.187.23:8080 ID-N-S 
+tmp/list.txt:119.252.169.212:8080 ID-N 
+tmp/list.txt:192.81.216.34:8989 US-A 
+tmp/list.txt:95.163.88.243:8080 RU-N! 
+tmp/list.txt:200.43.65.91:8080 AR-A! 
+tmp/list.txt:83.235.37.52:8080 GR-N! 
+tmp/list.txt:202.114.144.15:8088 CN-N 
+tmp/list.txt:202.99.16.28:3128 CN-N 
+tmp/list.txt:36.78.221.70:8080 ID-N-S 
+tmp/list.txt:91.202.38.144:3128 RU-N! 
+tmp/list.txt:190.136.18.33:8090 AR-A-S! 
+tmp/list.txt:151.237.84.46:8081 BG-N-S 
+tmp/list.txt:162.223.88.243:80 US-N-S 
+tmp/list.txt:203.81.162.211:3128 MM-N 
+tmp/list.txt:209.20.78.169:3128 US-N 
+tmp/list.txt:88.150.136.181:3128 GB-A! 
+tmp/list.txt:94.139.204.185:8080 BG-N-S 
+tmp/list.txt:109.124.220.1:8080 RU-H-S 
+tmp/list.txt:89.191.147.4:8118 PL-H! 
+tmp/list.txt:186.229.6.202:8080 BR-A 
+tmp/list.txt:181.88.177.145:8080 AR-H-S! 
+tmp/list.txt:191.239.48.98:80 US-A 
+tmp/list.txt:106.120.19.58:8118 CN-A 
+tmp/list.txt:61.232.6.164:8081 CN-N 
+tmp/list.txt:114.141.47.173:80 KR-N 
+tmp/list.txt:176.110.163.230:3128 RU-N 
+tmp/list.txt:61.154.127.136:10001 CN-H-S 
+tmp/list.txt:123.125.114.167:80 CN-N! 
+tmp/list.txt:163.177.79.5:80 CN-N! 
+tmp/list.txt:87.255.87.107:3128 MD-A-S! 
+tmp/list.txt:178.85.145.20:80 NL-A 
+tmp/list.txt:128.199.99.56:3128 SG-N 
+tmp/list.txt:189.55.182.120:3128 BR-N 
+tmp/list.txt:62.205.162.68:3128 RU-N 
+tmp/list.txt:185.14.250.251:8080 IQ-N 
+tmp/list.txt:80.232.220.51:3128 LV-N-S 
+tmp/list.txt:195.184.216.70:8080 UA-N-S! 
+tmp/list.txt:177.7.4.132:3128 BR-N 
+tmp/list.txt:187.0.222.167:3128 BR-N 
+tmp/list.txt:119.6.144.74:843 CN-A 
+tmp/list.txt:180.210.48.130:8080 KR-N 
+tmp/list.txt:118.96.223.152:8080 ID-H 
+tmp/list.txt:181.225.96.14:8080 CO-N 
+tmp/list.txt:54.241.4.210:80 US-N 
+tmp/list.txt:190.184.144.141:8080 CO-N-S 
+tmp/list.txt:104.154.58.149:3128 US-N 
+tmp/list.txt:84.196.166.230:80 BE-A 
+tmp/list.txt:196.201.218.199:1048 KE-H 
+tmp/list.txt:94.84.174.26:8080 IT-A 
+tmp/list.txt:80.237.22.46:8080 RU-N-S 
+tmp/list.txt:41.73.117.194:8080 ML-N-S 
+tmp/list.txt:130.211.168.135:3128 US-N 
+tmp/list.txt:85.105.20.114:8080 TR-N-S 
+tmp/list.txt:209.150.233.83:8080 US-N-S 
+tmp/list.txt:84.30.55.34:80 NL-A 
+tmp/list.txt:110.173.0.58:8080 CN-N-S 
+tmp/list.txt:216.171.205.9:8080 US-N 
+tmp/list.txt:85.113.253.138:80 NL-A 
+tmp/list.txt:123.125.19.44:80 CN-H-S 
+tmp/list.txt:201.132.118.114:8080 MX-N 
+tmp/list.txt:58.251.78.71:8088 CN-H-S! 
+tmp/list.txt:175.139.136.245:8080 MY-N-S 
+tmp/list.txt:213.24.60.52:8080 RU-A 
+tmp/list.txt:109.194.20.27:3128 RU-A-S 
+tmp/list.txt:60.223.236.44:9797 CN-N-S 
+tmp/list.txt:183.207.228.44:80 CN-A! 
+tmp/list.txt:169.53.135.16:3128 US-N 
+tmp/list.txt:187.7.215.91:8080 BR-N-S 
+tmp/list.txt:220.181.32.106:80 CN-N! 
+tmp/list.txt:210.57.208.14:80 ID-H 
+tmp/list.txt:114.215.119.238:3128 CN-A-S 
+tmp/list.txt:122.225.106.40:80 CN-N 
+tmp/list.txt:130.255.61.211:3128 RU-H-S 
+tmp/list.txt:213.197.62.87:80 NL-A 
+tmp/list.txt:46.209.216.100:8080 IR-N 
+tmp/list.txt:202.108.23.247:80 CN-N! 
+tmp/list.txt:88.150.136.178:3128 GB-A 
+tmp/list.txt:142.4.200.173:8118 US-H 
+tmp/list.txt:115.239.210.199:80 CN-N! 
+tmp/list.txt:91.143.50.151:3128 RU-H 
+tmp/list.txt:62.176.13.22:8088 RU-N 
+tmp/list.txt:188.166.51.208:80 NL-A 
+tmp/list.txt:27.145.145.105:8080 TH-N 
+tmp/list.txt:1.175.45.181:37564 TW-H-S 
+tmp/list.txt:109.207.49.190:8080 PL-N-S 
+tmp/list.txt:82.200.217.66:3128 KZ-N-S 
+tmp/list.txt:63.234.205.110:8080 US-A 
+tmp/list.txt:222.124.177.162:8080 ID-N-S 
+tmp/list.txt:66.175.209.38:8118 US-H! 
+tmp/list.txt:201.48.186.74:8080 BR-N 
+tmp/list.txt:58.252.72.179:3128 CN-A-S 
+tmp/list.txt:88.82.172.237:7777 RU-N 
+tmp/list.txt:108.192.136.193:3128 US-N 
+tmp/list.txt:117.79.64.29:80 CN-N! 
+tmp/list.txt:82.246.58.59:3128 FR-A 
+tmp/list.txt:91.147.247.122:21320 HU-H-S 
+tmp/list.txt:187.123.185.40:3128 BR-N 
+tmp/list.txt:91.244.115.106:8080 RU-N 
+tmp/list.txt:164.138.237.170:8080 IQ-N-S 
+---CLASS2----------------------------------------------exploide : / take 1 exploide with space / insert 0 and 1  and the rest is to be treated 
+tmp/all_text.txt:101.71.27.120 50 I Chma ﬁﬁﬁakﬁ Anonymous 13 33
+tmp/all_text.txt:114.215.105.155 9999 I Chums ﬁﬁﬁakﬁ Anonymous 229 04 15
+tmp/all_text.txt:51.154.127.135 10001 I Chma a’}a’}a§a’ks§ Anonymous 03 43
+tmp/all_text.txt:195.201.215.202 52 E Kenya a’}a’}a§a’ks§ Anonymous 12 21
+tmp/all_text.txt:37.239.45.74 50 = Iraq ﬁﬁﬁakﬁ Anonymous 09 35
+tmp/all_text.txt:55.150.135.150 3125 3% K%”g‘;eodm ﬁﬁﬁakﬁ Anonymous 14 00
+tmp/all_text.txt:124.55.57.51 53 I Chums ﬁﬁﬁakﬁ Anonymous 10 39
+tmp/all_text.txt:202.105.50.75 50 I Chma ﬁﬁﬁakﬁ Anonymous 04 13
+tmp/all_text.txt:107.152.17.149 7505 Unknown a’}a’}a§a’ks§ Anonymous 0715
+tmp/all_text.txt:203.172.235.134 3030 ﬁﬁﬁﬁﬁ Anonymous 2 15 03
+tmp/all_text.txt:210.101.131.227 3030 a’}a’}a§a’}s£= Anonymous 07 21
+tmp/all_text.txt:199.200.120.35 7303 ﬁﬁﬁﬁﬁ Anonymous 12 03
+tmp/all_text.txt:211.77.5.33 3031 El Taxwan ﬁﬁﬁﬁﬁ Anonymous 17 34
+tmp/all_text.txt:157.114.144.14 3123 §  ﬁﬁﬁﬁﬁ Anonymous 0107
+tmp/all_text.txt:119.97.154.43 3035 I Chums ﬁﬁﬁﬁﬁ Anonymous 10 23
+tmp/all_text.txt:133.135.135.153 3030 I Chums ﬁﬁﬁﬁﬁ Anonymous 03 35
+tmp/all_text.txt:54.75.225.32 30 §  ﬁﬁﬁﬁﬁ Anonymous 5 04 23
+tmp/all_text.txt:202.195.151.23 3033 I Chums a’}a’}a§a’}s£= Anonymous 363 i 07 02
+tmp/all_text.txt:199.200.120.37 7303 §  ﬁﬁﬁﬁﬁ Anonymous 12 03
+tmp/all_text.txt:175.135.195.53 3030 M3I3ys\3 ﬁﬁﬁﬁﬁ Anonymous 04 35
+tmp/all_text.txt:175.31.133.137 30 J France ﬁﬁﬁﬁﬁ Anonymous 00 32
+tmp/all_text.txt:124.33.57.20 30 I Chums ﬁﬁﬁﬁﬁ Anonymous 1012
+tmp/all_text.txt:222.45.195.19 3113 I Chums ﬁﬁﬁﬁﬁ Anonymous 1515
+tmp/all_text.txt:202.95.247.113 30 I Chums ﬁﬁﬁﬁﬁ Anonymous 1159
+tmp/all_text.txt:213.151.39.71 30 _ Rigeumc ﬁﬁﬁﬁﬁ Anonymous 2 12 49
+tmp/all_text.txt:203.110.150.14 3030 I Chums ﬁﬁﬁﬁﬁ Anonymous 3 02 34
+tmp/all_text.txt:95.153.217.24 3123 _ Rigeumc ﬁﬁﬁﬁﬁ Anonymous 5 14 41
+tmp/all_text.txt:211.77.5.41 30 El Taxwan ﬁﬁﬁﬁﬁ Anonymous I 07 43
+tmp/all_text.txt:114.32.254.105 3030 El Taxwan a’}a’}a§a’}s£= Anonymous 452 14 27
+---CLASS3----------------------------------------------exploide : / take 1 and exploide with space / insert 1 and 2  the rest is type and countr
+tmp/all_text.txt:3secs 210.101.131.227 8080 ;.: Korea ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:3secs 124.88.67.7 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:3secs 124.88.67.24 83 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:3secs 213.85.92.10 80 — Russia — — H'|'|'P High +KA
+tmp/all_text.txt:3secs 101.71.27.120 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:3secs 60.18.147.42 80 - China Z — H'|'|'P Low
+tmp/all_text.txt:3secs 37.59.176.38 7808 = Netherlands j — H'|'|'PS High +KA
+tmp/all_text.txt:3secs 196.201.218.203 45 E KENYA ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:4secs 58.254.132.81 8001 - China 2 — H'|'|'PS High +KA
+tmp/all_text.txt:4secs 114.141.47.173 80 ;.: Korea j — H'|'|'PS High +KA
+tmp/all_text.txt:4secs 196.201.218.202 52 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:4secs 39.184.4.37 8123 -China 2 ‘ H'|'|'P High +KA
+tmp/all_text.txt:4secs 67.53.155.21 80 E USA E — H'|'|'P High +KA
+tmp/all_text.txt:4secs 196.201.218.199 1583 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.88.67.6 81 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 60.29.248.142 8080 - China Z — H'|'|'PS High +KA
+tmp/all_text.txt:4secs 119.90.127.2 80 - China j — H'|'|'P Low
+tmp/all_text.txt:4secs 36.250.74.87 8102 - China Z — H'|'|'P Low
+tmp/all_text.txt:4secs 124.88.67.13 843 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 196.201.218.203 8080 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:4secs 36.250.74.88 8101 - China Z — H'|'|'P Low
+tmp/all_text.txt:4secs 124.202.178.22 8001 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 42.51.132.239 8080 - China Z — H'|'|'P High +KA
+tmp/all_text.txt:4secs 125.62.22.47 9999 - China 2 — H'|'|'P Low
+tmp/all_text.txt:4secs 196.201.218.202 773 E KENYA — Z H'|'|'P High +KA
+tmp/all_text.txt:4secs 196.201.218.203 4148 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:4secs 196.201.218.199 50 E KENYA ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 196.201.218.203 3304 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.202.182.206 8001 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.88.67.82 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 111.161.126.100 80 -China ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:4secs 101.226.249.237 80 - China — — H'|'|'PS High +KA
+tmp/all_text.txt:4secs 111.243.114.159 8118 ﬂTaiwan I — H'|'|'PS High +KA
+tmp/all_text.txt:4secs 123.121.75.27 8118 -China ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:4secs 163.177.79.4 8102 -China Z — H'|'|'P Low
+tmp/all_text.txt:4secs 86.107.110.73 8089 - Romania j — H'|'|'PS High +KA
+tmp/all_text.txt:4secs 88.150.136.180 3128 USerbia j — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.202.181.226 8001 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.88.67.53 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.88.67.30 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 183.207.228.7 9782 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 202.119.25.70 9999 - China Z — H'|'|'P Low
+tmp/all_text.txt:4secs 202.108.23.247 80 - China ‘ — H'|'|'P Low
+tmp/all_text.txt:4secs 202.119.25.73 9999 - China Z — H'|'|'P Low
+tmp/all_text.txt:4secs 95.86.129.92 60088 ﬂAzerbaijan — — socI<s4/5 High +KA
+tmp/all_text.txt:4secs 221.10.102.203 83 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.88.67.9 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 88.150.136.181 3128 USerbia j — H'|'|'P High +KA
+tmp/all_text.txt:4secs 124.88.67.33 843 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:4secs 202.102.22.182 80 - China Z — H'|'|'P Low
+---CLASS4----------------------------------------------exploide : / take 1 and explode with space / insert 0 and 1,  the rest is country code and type ... 
+tmp/all_text.txt:51.155.3.155 50 I Chma a’}a§a’}a§s§ Anonymous 05 55
+tmp/all_text.txt:55.150.135.175 3125 2: Kﬂggeodm a’}a§a’}a§s§ Anonymous 01 15
+tmp/all_text.txt:152.205.49.45 5059 §  a’}a§a’}a§s§ Anonymous 05 31
+tmp/all_text.txt:55.150.135.179 3125 2: Kﬂggeodm a’}a§a’}a§s§ Anonymous 0035
+tmp/all_text.txt:55.150.135.151 3125 2: Kﬂggeodm a’}a§a’}a§s§ Anonymous 1417
+tmp/all_text.txt:213.55.92.10 50 _ FeRd“e5r5a‘:2m a’}a§a’}a§s§ Anonymous 05 32
+tmp/all_text.txt:59.10.137.139 5000 Iol Canada a’}a§a’}a§s§ Anonymous 09 13
+tmp/all_text.txt:124.55.57.53 50 I Chma a’}a§a’}a§s§ Anonymous 00 45
+tmp/all_text.txt:114.50.152.132 50 I Chma a’}a§a’}a§s§ Anonymous I 57 07 04
+tmp/all_text.txt:91.229.20.73 50 J France a’}a§a’}a§s§ Anonymous 5 0352
+tmp/all_text.txt:124.55.57.31 50 I Chma a’}a§a’}a§s§ Anonymous 11 12
+tmp/all_text.txt:115.29.154.17 52 I Chma i’}3’}i’}3’}S’} Anonymous 54 10 41
+tmp/all_text.txt:124.55.57.22 50 I Chma a’}a§a’}a§s§ Anonymous 12 43
+tmp/all_text.txt:124.55.57.35 53 I Chma a’}a§a’}a§s§ Anonymous 04 30
+tmp/all_text.txt:152.92.240.197 5050 I Chma a’}a§a’}a§s§ Anonymous 11 31
+tmp/all_text.txt:124.55.57.24 51 I Chma a’}a§a’}a§s§ Anonymous 14 07
+tmp/all_text.txt:124.55.57.10 50 I Chma a’}a§a’}a§s§ Anonymous 04 04
+tmp/all_text.txt:115.25.52.175 50 I Chma a’}a§a’}a§s§ Anonymous 14 22
+tmp/all_text.txt:215.240.155.52 50 I Chma a’}a§a’}a§s§ Anonymous 05 10
+tmp/all_text.txt:42.51.132.239 5050 I Chma a’}a§a’}a§s§ Anonymous 07 45
+tmp/all_text.txt:11secs 196.201.218.204 213 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 111.161.126.98 80 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:11secs 115.231.96.120 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 88.150.136.180 3129 USerbia Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 113.176.61.11 9999 -Viet Nam Z Z H'|'|'PS High +KA
+tmp/all_text.txt:11secs 202.108.50.75 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 202.114.144.15 8088 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:11secs 124.88.67.36 83 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 122.225.106.36 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:11secs 101.4.136.6 9999 -China Z Z H'|'|'P Low
+tmp/all_text.txt:11secs 59.127.178.95 8080 ﬂTaiwan Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 120.198.243.115 99 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 124.88.67.6 82 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 124.88.67.34 843 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 124.88.67.24 843 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 217.121.192.226 80 = Netherlands Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 124.88.67.35 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 209.66.192.149 8080 E USA Z Z H'|'|'P Low
+tmp/all_text.txt:11secs 221.10.102.203 843 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11secs 163.177.79.4 8101 -China Z I H'|'|'P Low
+tmp/all_text.txt:11secs 111.206.50.177 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 181.88.177.145 8080 §Argentina Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 122.228.92.73 80 - China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 124.88.67.54 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.202 1327 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 111.11.153.19 8080 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.203 753 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.203 14274 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.202 10498 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 36.250.74.87 80 - China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 36.250.74.88 80 - China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 61.156.3.166 80 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 196.201.218.204 1423 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 111.206.1.194 3128 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 124.88.67.35 83 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 163.177.79.5 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 220.181.32.106 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 111.206.81.248 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 37.59.176.38 8089 = Netherlands Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 88.150.136.178 3128 USerbia Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 120.198.243.115 8090 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 120.198.243.111 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 175.43.16.177 3128 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 58.253.238.243 80 - China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 58.253.238.242 80 - China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 118.69.174.30 1080 -Viet Nam Z Z socl<s4/5 High +KA
+tmp/all_text.txt:1min 101.4.136.3 9999 -China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 124.88.67.25 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 113.61.111.196 60088 -Viet Nam Z Z socl<s4/5 High +KA
+tmp/all_text.txt:1min 211.68.122.171 8080 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 202.119.25.71 9999 -China Z — H'|'|'P Low
+tmp/all_text.txt:1min 220.248.41.106 110 -China Z — H'|'|'PS High +KA
+tmp/all_text.txt:1min 114.32.254.106 8080 ﬂTaiwan ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:1min 113.142.37.248 80 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:1min 107.182.17.149 7808 EUSA j — H'|'|'PS High +KA
+tmp/all_text.txt:1min 189.85.20.21 8080 Brazil E Z H'|'|'PS High +KA
+tmp/all_text.txt:2mins 118.229.239.17 8080 - China Z — H'|'|'P Low
+tmp/all_text.txt:2mins 183.207.228.54 86 - China ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 107.182.17.149 8089 EUSA j — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 196.201.218.203 196 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:2mins 196.201.218.202 14274 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:2mins 196.201.218.203 7425 E KENYA — Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 86.107.110.73 7808 - Romania j — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 219.142.192.196 2829 -China E — H'|'|'P High +KA
+tmp/all_text.txt:2mins 196.201.218.202 455 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:2mins 196.201.218.203 296 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:2mins 196.201.218.204 1427 E KENYA — Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 77.105.40.96 6666 H Serbia Z — H'|'|'P Low
+tmp/all_text.txt:2mins 124.202.181.50 8001 -China ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 112.244.151.157 8118 -China ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 115.238.225.26 80 -China ‘ — H'|'|'P Low
+tmp/all_text.txt:2mins 196.201.218.202 297 E KENYA — Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 111.161.126.101 80 -China ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 124.88.67.8 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2mins 221.10.102.203 81 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2mins 114.215.108.155 9999 -China Z — H'|'|'P High +KA
+tmp/all_text.txt:2mins 27.202.6.108 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2mins 41.79.69.8 9090 - Tanzania Z E H'|'|'P Low
+tmp/all_text.txt:2mins 120.198.243.115 92 -China E — H'|'|'P High +KA
+tmp/all_text.txt:2mins 202.106.16.36 3128 -China Z — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 117.9.130.131 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2mins 196.201.218.202 1275 E KENYA — Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 115.239.210.199 80 -China ‘ — H'|'|'P Low
+tmp/all_text.txt:2mins 124.88.67.32 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2mins 137.117.21.226 80 E-I Canada ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2mins 221.10.102.203 80 -China - ‘ H'|'|'P High +KA
+tmp/all_text.txt:2mins 118.254.213.237 80 -China — Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 122.225.106.40 80 -China ‘ — H'|'|'P Low
+tmp/all_text.txt:2mins 210.245.20.170 80 -Viet Nam ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 196.201.218.202 4185 E KENYA — Z H'|'|'P High +KA
+tmp/all_text.txt:2mins 111.161.126.99 80 -China ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 117.40.199.37 9797 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2mins 183.237.125.10 80 -China Z — H'|'|'P Low
+tmp/all_text.txt:2mins 190.198.94.89 8080 ﬂVenezue|a Z — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 207.91.10.234 8080 E USA j — H'|'|'PS High +KA
+tmp/all_text.txt:2mins 163.177.79.4 80 - China Z — H'|'|'P Low
+tmp/all_text.txt:2mins 196.201.218.204 80 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:3mins 190.37.131.55 8080 ﬂVenezue|a Z — H'|'|'PS High +KA
+tmp/all_text.txt:3mins 196.201.218.199 234 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:3mins 124.88.67.34 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:17h 31mins 183.207.228.7 81 -China - I H'|'|'P High +KA
+tmp/all_text.txt:17h 42mins 200.192.248.74 8080 Brazil ‘ — H'|'|'P Low
+tmp/all_text.txt:17h 48mins 186.93.16.5 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:17h 51mins 183.207.228.7 8162 -China - I H'|'|'P High +KA
+tmp/all_text.txt:18h 4mins 36.250.74.87 8103 -China I — H'|'|'P Low
+tmp/all_text.txt:18h 10mins 123.125.104.242 80 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:18h 11mins 190.207.11.1 8080 ﬂVenezuela I — H'|'|'P High
+tmp/all_text.txt:18h 11mins 61.154.127.136 10001 -China ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:18h 12mins 190.79.194.203 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:18h 13mins 202.29.97.2 3128 EThailand I I H'|'|'P Low
+tmp/all_text.txt:18h 14mins 122.96.59.106 843 -China I — H'|'|'P High +KA
+tmp/all_text.txt:18h 18mins 183.207.228.9 83 -China I ‘ H'|'|'P High +KA
+tmp/all_text.txt:18h 26mins 124.161.78.202 808 -China I — H'|'|'P High +KA
+tmp/all_text.txt:18h 30mins 113.105.224.66 80 -China I — H'|'|'P Low
+tmp/all_text.txt:18h 37mins 190.77.221.181 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:18h 40mins 183.203.22.76 80 - China _ I H'|'|'P High +KA
+tmp/all_text.txt:18h 45mins 124.88.67.10 80 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:18h 49mins 41.205.16.10 8080 -Cameroon I — H'|'|'PS High +KA
+tmp/all_text.txt:18h 53mins 41.181.202.205 8080 E South Africa ‘ ‘ H'|'|'PS High +KA
+tmp/all_text.txt:18h 54mins 92.96.142.91 8118 |:UAE — — H'|'|'PS High +KA
+tmp/all_text.txt:18h 59mins 54.154.1.183 3128 EUSA I — H'|'|'PS High +KA
+tmp/all_text.txt:19h 3mins 118.26.142.5 80 -China I — H'|'|'P Low
+tmp/all_text.txt:19h 7mins 186.91.75.111 8080 ﬂVenezuela I — H'|'|'P High
+tmp/all_text.txt:19h 13mins 222.45.196.46 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:19h 20mins 190.40.123.35 8080 ||Peru I — H'|'|'P High
+tmp/all_text.txt:19h 21mins 186.89.197.119 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:19h 22mins 190.37.81.200 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:19h 31mins 186.91.51.167 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:19h 38mins 180.97.75.20 8080 -China ‘ I H'|'|'P Low
+tmp/all_text.txt:19h 54mins 183.207.228.9 90 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:19h 57mins 122.94.164.62 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:19h 58mins 201.211.194.118 8080 ﬂVenezuela I ‘ H'|'|'P High
+tmp/all_text.txt:19h 59mins 202.106.169.142 80 -China ‘ — H'|'|'P Low
+tmp/all_text.txt:20h 5mins 188.132.226.2 80 Turkey ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:20h 5mins 202.29.235.130 3129 EThailand I — H'|'|'PS High +KA
+tmp/all_text.txt:20h 7mins 107.182.17.9 8089 EUSA I — H'|'|'P High +KA
+tmp/all_text.txt:20h 13mins 186.93.235.5 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:20h 21mins 190.40.123.36 8080 ||Peru I — H'|'|'P High
+tmp/all_text.txt:20h 26mins 122.96.59.106 81 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:20h 27mins 124.88.67.33 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:20h 28mins 111.13.136.59 843 -China ‘ ‘ H'|'|'P High +KA
+tmp/all_text.txt:20h 34mins 190.39.227.244 8080 E Venezuela I _ H'|'|'PS High +KA
+tmp/all_text.txt:20h 45mins 61.232.6.164 8081 - China — — H'|'|'PS High +KA
+tmp/all_text.txt:20h 47mins 220.133.46.192 1080 ﬂTaiwan — — socl<s4/5 High +KA
+tmp/all_text.txt:20h 51mins 190.203.83.146 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:20h 55mins 183.230.53.162 8123 -China I — H'|'|'PS High +KA
+tmp/all_text.txt:20h 57mins 201.210.212.236 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:21h 8mins 186.95.73.78 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:21h 13mins 183.221.217.132 8123 -China I ‘ H'|'|'P High +KA
+tmp/all_text.txt:21h 20mins 190.39.120.150 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:153.131.144.204 50 I Chma a’}a§a’}a§s§ Anonymous 5 05 25
+tmp/all_text.txt:101.227.252.130 5051 I Chma a’}a§a’}a§s§ Anonymous 3 04 51
+tmp/all_text.txt:119.254.54.90 50 I Chma a’}a§a’}a§s§ Anonymous 10 01
+tmp/all_text.txt:123.125.19.44 50 I Chma a’}a§a’}a§s§ Anonymous 245 09 05
+tmp/all_text.txt:113.140.25.4 51 I Chma ﬁﬁﬁﬁﬁ Anonymous 2 17 04 07
+tmp/all_text.txt:5.135.193.215 7505 J France ﬁﬁﬁakﬁ Anonymous 11 44
+tmp/all_text.txt:107.152.17.9 7505 Unknown a’}a§a’}a§s§ No 10 53
+tmp/all_text.txt:37.59.175.35 7505 J France a’}a§a’}a§s§ Anonymous 03 07
+tmp/all_text.txt:101.4.135.55 50 I Chma a’}a§a’}a§s§ Anonymous 15 03
+tmp/all_text.txt:119.147.91.21 50 I Chma a’}a§a’}a§s§ Anonymous 09 35
+tmp/all_text.txt:115.25.105.74 3125 I Chma a’}a§a’}a§s§ No 12 57
+tmp/all_text.txt:152.92.54.30 5050 I Chma a’}a§a’}a§s§ Anonymous 04 10
+tmp/all_text.txt:123.57.144.221 50 I Chma a’}a§a’}a§s§ Anonymous 14 19
+tmp/all_text.txt:124.55.57.52 50 I Chma ﬁﬁﬁakﬁ Anonymous 05 15
+tmp/all_text.txt:124.55.57.5 50 I Chma ﬁﬁﬁakﬁ Anonymous 2 04 03
+tmp/all_text.txt:124.55.57.53 50 I Chma a’}a§a’}a§s§ Anonymous 15 55
+tmp/all_text.txt:155.54.4.195 5050 Unknown a’}a§a’}a§s§ Anonymous 1145
+tmp/all_text.txt:195.201.215.199 3014 E Kenya a’}a§a’}a§s§ Anonymous 0917
+tmp/all_text.txt:202.75.214.11 50 I Chma a’}a§a’}a§s§ Anonymous 09 29
+tmp/all_text.txt:124.55.57.54 50 I Chma a’}a§a’}a§s§ Anonymous 245 11 35
+tmp/all_text.txt:14h1min 101.251.223.34 80 -China — — H'|'|'P High
+tmp/all_text.txt:14h 12mins 190.73.133.177 8080 ﬂVenezuela Z — H'|'|'P High
+tmp/all_text.txt:14h 14mins 137.135.166.225 8120 EUSA — — H'|'|'PS High +KA
+tmp/all_text.txt:14h 14mins 124.202.180.186 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:14h 21mins 178.166.155.36 80 — Russia ‘ — H'|'|'P Low
+tmp/all_text.txt:14h 30mins 71.183.100.58 7004 EUSA — — H'|'|'P High +KA
+tmp/all_text.txt:14h 38mins 119.184.122.37 9797 -China I — H'|'|'P Low
+tmp/all_text.txt:14h 39mins 202.96.155.251 2699 -China - — socl<s4/5 High +KA
+tmp/all_text.txt:14h 48mins 201.159.18.182 8080 "Mexico ‘ Z H'|'|'PS High +KA
+tmp/all_text.txt:14h 50mins 217.12.215.22 3128 -Ukraine ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:15h 190.78.27.168 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:15h 6mins 190.204.56.172 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:15h 8mins 183.207.228.119 80 -China 2 H'|'|'P High +KA
+tmp/all_text.txt:15h 9mins 85.239.143.28 8081 _ Bulgaria ‘ j H'|'|'PS High +KA
+tmp/all_text.txt:15h 11mins 190.36.88.29 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:15h 12mins 87.255.87.107 3128 - Moldova Z — H'|'|'P High
+tmp/all_text.txt:15h 13mins 124.202.169.166 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:15h 15mins 210.101.131.231 8080 ;-: Korea ‘ Z H'|'|'PS High +KA
+tmp/all_text.txt:15h 18mins 190.200.2.52 8080 ﬂVenezuela I — H'|'|'P High
+tmp/all_text.txt:15h 21mins 125.39.66.67 80 -China j — H'|'|'PS High +KA
+tmp/all_text.txt:15h 22mins 80.114.141.218 80 = Netherlands — Z H'|'|'P High +KA
+tmp/all_text.txt:15h 23mins 202.148.2.254 8000 '- Indonesia ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:15h 26mins 117.21.192.9 80 -China Z — H'|'|'P High +KA
+tmp/all_text.txt:15h 29mins 222.45.196.45 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:15h 34mins 183.207.228.7 9989 - China — — H'|'|'P High +KA
+tmp/all_text.txt:15h 39mins 190.60.62.221 8080 -Colombia I ‘ H'|'|'P High
+tmp/all_text.txt:15h 43mins 218.75.205.72 9999 -China I — H'|'|'P Low
+tmp/all_text.txt:15h 44mins 188.130.128.243 80 — Russia — — H'|'|'P Low
+tmp/all_text.txt:15h 51mins 117.135.251.74 80 -China I — H'|'|'P Low
+tmp/all_text.txt:15h 53mins 124.202.182.22 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:15h 58mins 183.207.228.8 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:16h 10mins 186.95.173.139 8080 ﬂVenezuela I — H'|'|'P High
+tmp/all_text.txt:16h11mins 190.198.20.161 8080 ﬂVenezuela I — H'|'|'PS High +KA
+tmp/all_text.txt:16h 19mins 221.10.102.203 82 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:16h 25mins 117.41.182.188 8080 -China I — H'|'|'PS High +KA
+tmp/all_text.txt:16h 27mins 183.230.53.121 8123 -China 2 Z H'|'|'PS High +KA
+tmp/all_text.txt:16h 37mins 190.202.213.64 8080 ﬂVenezuela — H'|'|'PS High +KA
+tmp/all_text.txt:16h 38mins 80.78.251.43 8000 — Russia — — H'|'|'P High +KA
+tmp/all_text.txt:16h 44mins 190.74.223.129 8080 ﬂVenezuela I _ H'|'|'PS High +KA
+tmp/all_text.txt:16h 48mins 183.230.53.130 8123 -China - — H'|'|'P High +KA
+tmp/all_text.txt:16h 59mins 190.38.107.169 8080 ﬂVenezuela Z — H'|'|'PS High +KA
+tmp/all_text.txt:17h 1min 67.58.38.246 80 E USA ‘ — H'|'|'P High +KA
+tmp/all_text.txt:17h 2mins 41.87.166.242 8080 E Botswana Z ‘ H'|'|'PS High +KA
+tmp/all_text.txt:17h 5mins 183.203.208.164 8001 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:17h 5mins 27.145.145.105 8080 EThailand ‘ — H'|'|'P High
+tmp/all_text.txt:17h 6mins 183.207.228.42 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:17h15mins 124.88.67.40 83 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:17h 17mins 186.90.84.72 8080 ﬂVenezuela — — H'|'|'P High
+tmp/all_text.txt:17h18mins 54.64.75.254 80 E USA j — H'|'|'P High +KA
+tmp/all_text.txt:17h19mins 202.119.199.147 1080 -China — — socl<s4/5 High +KA
+tmp/all_text.txt:7h 41mins 183.221.190.239 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:7h 43mins 222.45.196.50 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:7h 44mins 58.252.72.179 3128 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:7h 44mins 183.230.53.182 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:7h 45mins 207.5.112.114 8080 EUSA Z Z H'|'|'P Low
+tmp/all_text.txt:7h 45mins 119.188.94.145 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:7h 52mins 183.207.228.56 80 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:7h 59mins 217.169.213.65 6666 USerbia Z Z H'|'|'P Low
+tmp/all_text.txt:8h 1min 39.191.22.74 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:8h 6mins 123.249.34.12 808 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8h 7mins 178.211.164.146 3128 — Russia Z Z H'|'|'PS High +KA
+tmp/all_text.txt:8h 8mins 124.88.67.6 80 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8h 14mins 125.39.66.69 80 - China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:8h 20mins 114.249.52.100 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8h 23mins 124.88.67.33 82 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8h 33mins 94.46.229.126 3128 I Portugal Z Z H'|'|'P Medium
+tmp/all_text.txt:8h 39mins 203.192.12.148 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:8h 39mins 211.144.81.69 18000 -China Z Z H'|'|'P Low
+tmp/all_text.txt:8h 43mins 113.107.57.76 3128 -China Z Z H'|'|'P Low
+tmp/all_text.txt:8h 51mins 211.141.130.245 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8h 59mins 183.207.228.7 8252 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8h 59mins 41.207.106.85 3128 E KENYA Z Z H'|'|'P Low
+tmp/all_text.txt:9h 218.59.144.95 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:9h 2mins 218.59.144.120 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:9h 2mins 218.59.144.95 81 -China Z Z H'|'|'P Low
+tmp/all_text.txt:9h 2mins 37.200.99.210 8118 = Netherlands Z Z H'|'|'PS High +KA
+tmp/all_text.txt:9h 2mins 218.59.144.120 81 -China Z Z H'|'|'P Low
+tmp/all_text.txt:9h 5mins 190.74.180.208 8080 ﬂVenezuela — Z H'|'|'PS High +KA
+tmp/all_text.txt:9h 12mins 62.209.225.107 8080 la. Czechia Z Z H'|'|'P Low
+tmp/all_text.txt:9h 16mins 176.31.84.249 7808 n Spain I Z H'|'|'PS High +KA
+tmp/all_text.txt:9h 19mins 183.207.228.7 80 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:9h 21mins 119.110.75.154 8080 '- Indonesia Z Z H'|'|'P Low
+tmp/all_text.txt:9h 34mins 67.58.38.246 8080 E USA Z Z H'|'|'P High +KA
+tmp/all_text.txt:9h 36mins 125.39.66.68 80 - China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:9h 40mins 123.58.129.48 80 - China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:9h 43mins 183.221.217.177 8123 -China I Z H'|'|'PS High +KA
+tmp/all_text.txt:10h 4mins 111.206.133.16 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:10h 5mins 92.62.224.223 8080 la. Czechia Z Z H'|'|'PS High +KA
+tmp/all_text.txt:10h 8mins 118.26.228.8 1080 ﬂTaiwan Z Z socl<s4/5 High +KA
+tmp/all_text.txt:10h16mins 218.90.174.167 3128 -China I Z H'|'|'PS High +KA
+tmp/all_text.txt:10h 23mins 218.204.154.167 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:10h 27mins 183.207.228.9 89 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:10h 29mins 87.226.68.130 2020 = Latvia Z Z H'|'|'P Low
+tmp/all_text.txt:10h 31mins 180.211.145.27 8080 - Bangladesh Z Z H'|'|'P Low
+tmp/all_text.txt:10h 36mins 41.73.117.194 8080 - Mali Z Z H'|'|'P Low
+tmp/all_text.txt:10h 43mins 88.247.11.155 8086 Turkey Z Z H'|'|'P High +KA
+tmp/all_text.txt:10h 48mins 46.45.76.66 8080 _ Poland Z Z H'|'|'P Low
+tmp/all_text.txt:10h 51mins 92.99.187.172 8118 |:UAE Z Z H'|'|'PS High +KA
+tmp/all_text.txt:10h 54mins 200.195.138.46 3128 Brazil Z Z H'|'|'PS High +KA
+tmp/all_text.txt:10h 54mins 123.245.114.244 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 202.102.22.182 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:41secs 196.201.218.202 1275 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 111.161.126.98 80 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 115.239.210.199 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:41secs 78.22.145.64 80 - Belgium Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 60.18.147.42 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:41secs 88.150.136.180 3129 USerbia Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 137.117.21.226 80 E-I Canada - Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 58.253.238.243 80 - China Z Z H'|'|'P Low
+tmp/all_text.txt:41secs 202.108.50.75 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 37.59.176.38 7808 = Netherlands Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 221.10.102.203 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 118.69.174.30 1080 -Viet Nam Z Z socl<s4/5 High +KA
+tmp/all_text.txt:41secs 124.91.135.153 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 122.225.106.36 80 -China Z Z H'|'|'P Low
+tmp/all_text.txt:41secs 124.88.67.34 843 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 124.88.67.25 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 190.38.167.204 8080 ﬂVenezuela Z Z H'|'|'P High
+tmp/all_text.txt:41secs 111.161.126.99 80 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 115.44.98.239 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 111.11.153.19 111 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 113.61.111.196 60088 -Viet Nam Z Z socl<s4/5 High +KA
+tmp/all_text.txt:41secs 183.237.125.10 80 -China I Z H'|'|'P Low
+tmp/all_text.txt:41secs 202.119.25.72 9999 -China Z Z H'|'|'P Low
+tmp/all_text.txt:41secs 211.68.122.171 8080 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 209.66.192.149 8080 EUSA Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 220.248.41.106 110 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 221.10.102.203 843 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 113.142.37.248 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:41secs 107.182.17.149 7808 EUSA Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 200.109.33.117 8080 ﬂVenezuela I Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 175.196.24.120 8080 ;.: Korea Z Z H'|'|'PS High +KA
+tmp/all_text.txt:41secs 196.201.218.204 80 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 183.207.228.54 86 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 107.182.17.149 8089 EUSA Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 196.201.218.202 8080 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 67.53.155.21 80 EUSA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.203 196 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.203 14274 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.199 1583 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 196.201.218.202 4186 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 124.88.67.6 81 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 60.29.248.142 8080 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 210.101.131.227 8080 ;.: Korea Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 86.107.110.73 7808 - Romania Z Z H'|'|'PS High +KA
+tmp/all_text.txt:1min 36.250.74.88 8101 -China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 124.88.67.34 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 125.62.22.47 9999 -China Z Z H'|'|'P Low
+tmp/all_text.txt:1min 196.201.218.202 4185 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:1min 111.161.126.100 80 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:3h 36mins 190.29.22.247 8080 - Colombia I Z H'|'|'P Low
+tmp/all_text.txt:3h 41mins 183.207.228.22 80 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:3h 44mins 95.168.217.24 3128 l...Czechia Z Z H'|'|'PS High +KA
+tmp/all_text.txt:3h 52mins 92.255.197.224 8080 — Russia Z Z H'|'|'P Low
+tmp/all_text.txt:3h 55mins 213.174.2.9 8080 - Ukraine Z Z H'|'|'PS High +KA
+tmp/all_text.txt:4h 183.207.224.50 85 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:4h 4mins 199.200.120.37 7808 E USA Z Z H'|'|'PS High +KA
+tmp/all_text.txt:4h 11mins 190.102.17.240 80 + Netherlands Antilles I I H'|'|'P High +KA
+tmp/all_text.txt:4h 17mins 211.144.81.66 18001 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:4h 18mins 211.141.130.252 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:4h 20mins 119.6.144.74 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:4h 24mins 183.221.53.66 8123 - China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:4h 28mins 183.207.224.42 80 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:4h 30mins 86.101.99.153 9000 = Hungary Z Z H'|'|'P Medium
+tmp/all_text.txt:4h 32mins 167.114.144.14 3128 EUSA — Z H'|'|'P High +KA
+tmp/all_text.txt:4h 36mins 66.175.209.38 8118 EUSA Z Z H'|'|'PS High +KA
+tmp/all_text.txt:4h 39mins 188.165.223.173 8108 [|France I Z H'|'|'P High +KA
+tmp/all_text.txt:4h 43mins 183.203.208.173 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:4h 46mins 111.13.136.57 843 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:4h 47mins 183.221.217.90 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:4h 47mins 106.37.177.251 3128 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:4h 59mins 183.230.53.140 8123 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:5h 13mins 62.221.92.179 3128 - Moldova Z Z H'|'|'PS High +KA
+tmp/all_text.txt:5h 20mins 120.198.243.115 8888 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:5h 27mins 118.96.132.131 80 '- Indonesia — Z H'|'|'PS High +KA
+tmp/all_text.txt:5h 37mins 222.45.196.17 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:5h 42mins 109.86.33.189 3128 -Ukraine Z Z H'|'|'PS High +KA
+tmp/all_text.txt:5h 50mins 222.45.212.130 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:5h 51mins 58.215.137.187 9080 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:5h 52mins 58.215.137.119 9080 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:5h 54mins 58.215.137.100 9080 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:5h 59mins 54.76.226.32 80 E USA I Z H'|'|'P High +KA
+tmp/all_text.txt:5h 59mins 190.73.203.201 8080 E Venezuela I Z H'|'|'PS High +KA
+tmp/all_text.txt:6h 10mins 190.73.93.228 8080 ﬂVenezuela Z Z H'|'|'PS High +KA
+tmp/all_text.txt:6h 11mins 183.207.224.51 82 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:6h 20mins 80.233.247.182 8080 = Latvia Z Z H'|'|'P Low
+tmp/all_text.txt:6h 20mins 119.28.3.200 83 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:6h 33mins 183.207.228.9 86 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:6h 39mins 219.244.168.79 8080 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:6h 40mins 186.233.116.90 80 Brazil Z Z H'|'|'PS High +KA
+tmp/all_text.txt:6h 40mins 42.202.146.155 80 - China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:6h 40mins 183.207.228.7 8037 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:6h 43mins 92.50.31.129 8080 : Iran Z Z H'|'|'P Low
+tmp/all_text.txt:6h 49mins 122.228.92.103 8080 - China Z Z H'|'|'P Low
+tmp/all_text.txt:6h 55mins 183.221.220.16 8123 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:7h 23mins 81.177.181.223 60088 — Russia Z Z socl<s4/5 High +KA
+tmp/all_text.txt:7h 28mins 183.230.53.158 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:7h 32mins 118.97.191.206 8080 '- Indonesia 1 Z H'|'|'PS High +KA
+tmp/all_text.txt:7h 35mins 62.176.13.22 8088 — Russia Z Z H'|'|'P Low
+tmp/all_text.txt:7h 39mins 117.135.250.69 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:3mins 163.177.79.5 8101 -China Z Z H'|'|'P Low
+tmp/all_text.txt:3mins 196.201.218.204 50 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:3mins 88.150.136.179 3128 USerbia Z Z H'|'|'P High +KA
+tmp/all_text.txt:3mins 211.141.130.109 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:3mins 221.12.173.130 3128 -China Z Z H'|'|'P Low
+tmp/all_text.txt:3mins 78.22.145.64 80 - Belgium Z Z H'|'|'P High +KA
+tmp/all_text.txt:3mins 145.97.214.154 80 = Netherlands Z Z H'|'|'P High +KA
+tmp/all_text.txt:3mins 111.11.153.19 111 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:3mins 202.119.25.72 9999 -China Z Z H'|'|'P Low
+tmp/all_text.txt:3mins 196.201.218.202 1333 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:4mins 196.201.218.202 66 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:4mins 196.201.218.199 14274 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:4mins 196.201.218.204 14275 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:4mins 196.201.218.203 767 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:4mins 124.91.135.153 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:4mins 92.255.180.220 8080 — Russia Z Z H'|'|'P Low
+tmp/all_text.txt:4mins 223.19.46.114 80 ll Hong Kong Z Z H'|'|'P High +KA
+tmp/all_text.txt:5mins 45.64.136.154 8080 E USA Z Z H'|'|'P Low
+tmp/all_text.txt:5mins 115.44.98.239 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:5mins 39.191.42.41 8123 -China I Z H'|'|'P High +KA
+tmp/all_text.txt:6mins 196.201.218.203 7612 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:6mins 196.201.218.202 4186 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:6mins 196.201.218.202 7322 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:6mins 114.244.215.89 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:6mins 14.140.222.220 80 = India Z Z H'|'|'P High
+tmp/all_text.txt:6mins 62.45.95.136 80 = Netherlands Z Z H'|'|'P High +KA
+tmp/all_text.txt:6mins 109.230.117.61 8080 : Iran Z Z H'|'|'PS High +KA
+tmp/all_text.txt:7mins 196.201.218.202 8080 E KENYA Z Z H'|'|'P High +KA
+tmp/all_text.txt:7mins 211.141.130.112 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:7mins 39.191.60.128 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:7mins 202.55.23.144 80 = India Z H'|'|'P Low
+tmp/all_text.txt:8mins 219.142.192.196 3121 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8mins 190.38.167.204 8080 ﬂVenezuela Z Z H'|'|'P High
+tmp/all_text.txt:8mins 200.109.33.117 8080 ﬂVenezuela I Z H'|'|'PS High +KA
+tmp/all_text.txt:8mins 175.196.24.120 8080 ;.: Korea Z Z H'|'|'PS High +KA
+tmp/all_text.txt:9mins 54.88.246.102 80 E USA Z Z H'|'|'P High +KA
+tmp/all_text.txt:10mins 91.211.245.50 7808 - Lithuania Z Z H'|'|'PS High +KA
+tmp/all_text.txt:10mins 91.211.245.50 8089 - Lithuania Z Z H'|'|'PS High +KA
+tmp/all_text.txt:11mins 188.165.223.173 8110 [IFrance I Z H'|'|'P High +KA
+tmp/all_text.txt:11mins 61.19.30.198 8080 EThailand Z Z H'|'|'P Low
+tmp/all_text.txt:11mins 190.37.76.97 8080 ﬂVenezuela — Z H'|'|'PS High +KA
+tmp/all_text.txt:11mins 217.118.86.104 8080 — Russia Z Z H'|'|'PS High +KA
+tmp/all_text.txt:11mins 187.111.0.174 8080 Brazil Z Z H'|'|'PS High +KA
+tmp/all_text.txt:12mins 203.223.45.110 80 nCambodia Z Z H'|'|'P High +KA
+tmp/all_text.txt:14mins 211.141.130.111 8118 -China Z I H'|'|'P High +KA
+tmp/all_text.txt:14mins 211.141.130.108 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:16mins 219.142.192.196 919 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:16mins 111.186.114.250 18186 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:17mins 78.23.54.53 80 - Belgium Z Z H'|'|'P High +KA
+tmp/all_text.txt:18mins 80.237.22.46 8080 — Russia Z Z H'|'|'P Low
+tmp/all_text.txt:153.52.50.100 50 I Chma a’}a§a’}a§s§ Anonymous 15 10
+tmp/all_text.txt:215.104.144.245 5050 I Chma a’}a§a’}a§s§ Anonymous 14 39
+tmp/all_text.txt:210.200.13.232 50 El Taxwan a’}a§a’}a§s§ Anonymous 0157
+tmp/all_text.txt:54.154.1.153 3125 §  a’}a§a’}a§s§ Anonymous 51 15 05
+tmp/all_text.txt:121.40.151.123 50 I Chma a’}a§a’}a§s§ Anonymous 3 i 05 02
+tmp/all_text.txt:50.207.53.123 5115 I Chma i’}3’}i’}3’}S’} Anonymous :7 0215
+tmp/all_text.txt:115.125.4.45 5050 I Chma a’}a§a’}a§s§ Anonymous 0913
+tmp/all_text.txt:55.101.99.153 9000 = Hungary a’}a§a’}a§s§ Anonymous 05 41
+tmp/all_text.txt:202.107.233.55 5050 I Chma a’}a§a’}a§s§ Anonymous 07 47
+tmp/all_text.txt:122.94.154.52 5115 I Chma a’}a§a’}a§s§ Anonymous 515- 02 55
+tmp/all_text.txt:210.245.31.15 50 I \/Ietnam 3’}3’}i’}3’}S’} Anonymous 57 04 35
+tmp/all_text.txt:175.31.54.249 5059 J France a’}a§a’}a§s§ No 53 01 19
+tmp/all_text.txt:115.235.215.115 5050 I cnxna i’}3’}i’}3’}S’} Anonymous :7 02 35
+tmp/all_text.txt:119.254.102.253 50 I Chma a’}a§a’}a§s§ Anonymous 00 07
+tmp/all_text.txt:152.115.23.7 5051 I Chma ﬁﬁﬁakﬁ Anonymous 00 25
+tmp/all_text.txt:124.55.57.25 50 I Chma a’}a§a’}a§s§ Anonymous 03 40
+tmp/all_text.txt:124.55.57.32 50 I Chma a’}a§a’}a§s§ Anonymous 02 37
+tmp/all_text.txt:123.57.55.233 50 I Chma a’}a§a’}a§s§ Anonymous 12 41
+tmp/all_text.txt:221.10.102.199 543 I Chma a’}a§a’}a§s§ Anonymous 05 03
+tmp/all_text.txt:124.55.57.9 50 I Chma a’}a§a’}a§s§ Anonymous 05 51
+tmp/all_text.txt:8secs 210.101.131.227 8080 ;.: Korea ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:8secs 124.88.67.7 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:8secs 124.88.67.24 83 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:8secs 213.85.92.10 80 — Russia — — H'|'|'P High +KA
+tmp/all_text.txt:8secs 101.71.27.120 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:8secs 60.18.147.42 80 - China Z — H'|'|'P Low
+tmp/all_text.txt:8secs 37.59.176.38 7808 = Netherlands j — H'|'|'PS High +KA
+tmp/all_text.txt:8secs 196.201.218.203 45 E KENYA ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:9secs 58.254.132.81 8001 - China 2 — H'|'|'PS High +KA
+tmp/all_text.txt:9secs 114.141.47.173 80 ;.: Korea j — H'|'|'PS High +KA
+tmp/all_text.txt:9secs 196.201.218.202 52 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:9secs 39.184.4.37 8123 -China 2 ‘ H'|'|'P High +KA
+tmp/all_text.txt:9secs 67.53.155.21 80 E USA E — H'|'|'P High +KA
+tmp/all_text.txt:9secs 196.201.218.199 1583 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.88.67.6 81 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 60.29.248.142 8080 - China Z — H'|'|'PS High +KA
+tmp/all_text.txt:9secs 119.90.127.2 80 - China j — H'|'|'P Low
+tmp/all_text.txt:9secs 36.250.74.87 8102 - China Z — H'|'|'P Low
+tmp/all_text.txt:9secs 124.88.67.13 843 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 196.201.218.203 8080 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:9secs 36.250.74.88 8101 - China Z — H'|'|'P Low
+tmp/all_text.txt:9secs 124.202.178.22 8001 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 42.51.132.239 8080 - China Z — H'|'|'P High +KA
+tmp/all_text.txt:9secs 125.62.22.47 9999 - China 2 — H'|'|'P Low
+tmp/all_text.txt:9secs 196.201.218.202 773 E KENYA — Z H'|'|'P High +KA
+tmp/all_text.txt:9secs 196.201.218.203 4148 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:9secs 196.201.218.199 50 E KENYA ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 196.201.218.203 3304 E KENYA — — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.202.182.206 8001 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.88.67.82 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 111.161.126.100 80 -China ‘ — H'|'|'PS High +KA
+tmp/all_text.txt:9secs 101.226.249.237 80 - China — — H'|'|'PS High +KA
+tmp/all_text.txt:9secs 111.243.114.159 8118 ﬂTaiwan I — H'|'|'PS High +KA
+tmp/all_text.txt:9secs 123.121.75.27 8118 -China ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:9secs 163.177.79.4 8102 -China Z — H'|'|'P Low
+tmp/all_text.txt:9secs 86.107.110.73 8089 - Romania j — H'|'|'PS High +KA
+tmp/all_text.txt:9secs 88.150.136.180 3128 USerbia j — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.202.181.226 8001 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.88.67.53 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.88.67.30 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 183.207.228.7 9782 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 202.119.25.70 9999 - China Z — H'|'|'P Low
+tmp/all_text.txt:9secs 202.108.23.247 80 - China ‘ — H'|'|'P Low
+tmp/all_text.txt:9secs 202.119.25.73 9999 - China Z — H'|'|'P Low
+tmp/all_text.txt:9secs 95.86.129.92 60088 ﬂAzerbaijan — — socI<s4/5 High +KA
+tmp/all_text.txt:9secs 221.10.102.203 83 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.88.67.9 80 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 88.150.136.181 3128 USerbia j — H'|'|'P High +KA
+tmp/all_text.txt:9secs 124.88.67.33 843 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:9secs 202.102.22.182 80 - China Z — H'|'|'P Low
+tmp/all_text.txt:221.10.102.203 51 I Chma a’}a§a’}a§s§ Anonymous 01 39
+tmp/all_text.txt:123.55.129.45 50 I Chma a’}a§a’}a§s§ Anonymous I 05 37
+tmp/all_text.txt:124.55.57.34 53 I Chma a’}a§a’}a§s§ Anonymous 02 15
+tmp/all_text.txt:122.95.59.105 543 I Chma a’}a§a’}a§s§ Anonymous 00 55
+tmp/all_text.txt:115.231.95.120 50 I Chma ﬁﬁﬁakﬁ Anonymous 12 49
+tmp/all_text.txt:55.252.72.179 3125 I Chma a’}a§a’}a§s§ Anonymous 05 03
+tmp/all_text.txt:55.107.110.73 7505 J Romama a’}a§a’}a§s§ Anonymous 04 52
+tmp/all_text.txt:195.201.215.203 295 E Kenya a’}a§a’}a§s§ Anonymous 15 20
+tmp/all_text.txt:195.201.215.204 341 E Kenya a’}a§a’}a§s§ Anonymous E_ 10 45
+tmp/all_text.txt:111.205.133.15 50 I Chma ﬁﬁﬁakﬁ Anonymous 12 07
+tmp/all_text.txt:124.55.57.33 543 I Chma a’}a§a’}a§s§ Anonymous 03 45
+tmp/all_text.txt:124.55.57.35 50 I Chma ﬁﬁﬁakﬁ Anonymous 00 52
+tmp/all_text.txt:155.132.225.2 50 I Turkey i’}3’}i’}3’}S’} Anonymous :4 E 00 49
+tmp/all_text.txt:101.225.249.237 50 I Chma a’}a§a’}a§s§ Anonymous 13 43
+tmp/all_text.txt:54.75.23.155 50 - Argermna a’}a§a’}a§s§ Anonymous 03 41
+tmp/all_text.txt:51.154.192.42 50 I Chma ﬁﬁﬁakﬁ Anonymous 05 01
+tmp/all_text.txt:124.55.57.13 53 I Chma a’}a§a’}a§s§ Anonymous 00 05
+tmp/all_text.txt:124.55.57.54 50 I Chma a’}a§a’}a§s§ Anonymous 03 47
+tmp/all_text.txt:37.59.101.107 5050 J France a’}a§a’}a§s§ Anonymous 15 45
+tmp/all_text.txt:123.0.245.154 50 El Taxwan a’}a§a’}a§s§ Anonymous E1 03 05
+tmp/all_text.txt:18mins 190.38.72.34 8080 ﬂVenezueIa — ‘ H'|'|'P High
+tmp/all_text.txt:19mins 190.36.143.76 8080 ﬂVenezueIa Z ‘ H'|'|'PS High +KA
+tmp/all_text.txt:21mins 39.191.55.161 8123 -China I — H'|'|'PS High +KA
+tmp/all_text.txt:21mins 202.55.23.168 80 = India 2 — H'|'|'PS High +KA
+tmp/all_text.txt:21mins 219.142.192.196 304 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:21mins 124.158.74.156 8080 - Mongolia I Z H'|'|'P Low
+tmp/all_text.txt:30mins 190.206.83.204 8080 ﬂVenezueIa I — H'|'|'PS High +KA
+tmp/all_text.txt:30mins 219.142.192.196 644 -China I Z H'|'|'P High +KA
+tmp/all_text.txt:30mins 186.227.208.60 8080 Brazil — I H'|'|'PS High +KA
+tmp/all_text.txt:31mins 190.78.18.7 8080 ﬂVenezueIa Z — H'|'|'PS High +KA
+tmp/all_text.txt:35mins 39.188.95.174 8123 -China Z — H'|'|'PS High +KA
+tmp/all_text.txt:35mins 124.202.181.170 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:36mins 94.23.80.193 60088 n Spain — — socI<s4/5 High +KA
+tmp/all_text.txt:37mins 39.188.85.104 8123 -China j — H'|'|'P High +KA
+tmp/all_text.txt:37mins 219.142.192.196 1049 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:38mins 72.52.161.226 8080 E USA 2 — H'|'|'P High +KA
+tmp/all_text.txt:38mins 122.219.134.221 8081 o Japan ‘ — H'|'|'P High +KA
+tmp/all_text.txt:42mins 186.91.188.140 8080 ﬂVenezueIa — — H'|'|'PS High +KA
+tmp/all_text.txt:46mins 202.101.96.154 8888 -China ‘ Z H'|'|'P Low
+tmp/all_text.txt:50mins 113.105.224.87 80 -China Z — H'|'|'P Low
+tmp/all_text.txt:50mins 186.95.208.179 8080 ﬂVenezueIa I Z H'|'|'P Low
+tmp/all_text.txt:56mins 89.169.0.122 8080 — Russia — — H'|'|'P High +KA
+tmp/all_text.txt:57mins 219.142.192.196 360 -China I — H'|'|'P High +KA
+tmp/all_text.txt:57mins 124.202.181.146 8001 -China ‘ Z H'|'|'P High +KA
+tmp/all_text.txt:58mins 186.101.82.74 3128 Ecuador ‘ — H'|'|'P Low
+tmp/all_text.txt:1h 183.207.228.58 80 -China — — H'|'|'P High +KA
+tmp/all_text.txt:1h 2mins 124.202.169.98 8118 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:1h 6mins 117.79.64.29 80 -China Z — H'|'|'P High +KA
+tmp/all_text.txt:1h 7mins 186.95.30.240 8080 ﬂVenezueIa Z — H'|'|'P High
+tmp/all_text.txt:1h 16mins 177.87.15.7 8080 Brazil j — H'|'|'P High +KA
+tmp/all_text.txt:1h 19mins 190.37.35.38 8080 ﬂVenezueIa I ‘ H'|'|'PS High +KA
+tmp/all_text.txt:1h 22mins 182.253.72.165 8080 '- Indonesia - — H'|'|'P Low
+tmp/all_text.txt:1h 28mins 201.209.125.214 8080 ﬂVenezueIa Z — H'|'|'P High
+tmp/all_text.txt:1h 29mins 124.88.67.10 843 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:1h 34mins 183.230.53.39 8123 -China Z — H'|'|'PS High +KA
+tmp/all_text.txt:1h 41mins 201.72.254.82 80 Brazil — — H'|'|'PS High +KA
+tmp/all_text.txt:1h 42mins 197.254.118.14 8080 E KENYA ‘ — H'|'|'P Low
+tmp/all_text.txt:1h 43mins 121.40.103.137 1080 -China j _ socI<s4/5 High +KA
+tmp/all_text.txt:1h 56mins 200.54.91.162 8080 I.ChiIe - Z H'|'|'P Low
+tmp/all_text.txt:2h 34mins 124.202.169.98 8001 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2h 35mins 202.138.248.9 8080 '- Indonesia ‘ Z H'|'|'P Low
+tmp/all_text.txt:2h 40mins 186.90.212.98 8080 ﬂVenezueIa I I H'|'|'PS High +KA
+tmp/all_text.txt:2h 51mins 120.198.243.115 80 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:2h 56mins 183.230.53.90 8123 - China 2 — H'|'|'PS High +KA
+tmp/all_text.txt:3h 1min 114.112.91.97 90 -China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:3h 3mins 78.22.64.40 80 - Belgium — Z H'|'|'P High +KA
+tmp/all_text.txt:3h 11mins 80.63.55.3 8080 :: Denmark j — H'|'|'PS High +KA
+tmp/all_text.txt:3h 18mins 124.88.67.40 82 - China ‘ — H'|'|'P High +KA
+tmp/all_text.txt:3h 20mins 221.5.69.51 8000 - China I — H'|'|'P Low
+tmp/all_text.txt:3h 34mins 41.187.60.38 8080 2 Egypt I Z H'|'|'P Low
+tmp/all_text.txt:11h 7mins 186.95.62.18 8080 ﬂVenezuela I Z H'|'|'PS High +KA
+tmp/all_text.txt:11h8mins 124.202.181.146 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11h 9mins 183.221.190.176 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:11h 13mins 222.85.1.123 8118 -China Z Z H'|'|'P Low
+tmp/all_text.txt:11h 20mins 190.73.93.21 8080 ﬂVenezuela I Z H'|'|'PS High +KA
+tmp/all_text.txt:11h 21mins 186.91.71.230 8080 ﬂVenezuela Z Z H'|'|'P High
+tmp/all_text.txt:11h 23mins 222.45.16.177 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11h 25mins 211.141.130.56 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11h 32mins 124.202.181.182 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11h 36mins 124.88.67.31 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:11h 38mins 201.209.27.88 8080 ﬂVenezuela I Z H'|'|'PS High +KA
+tmp/all_text.txt:11h 38mins 187.188.195.66 8080 "Mexico Z Z H'|'|'P Low
+tmp/all_text.txt:11h 39mins 190.79.225.210 8080 ﬂVenezuela Z Z H'|'|'PS High +KA
+tmp/all_text.txt:11h 40mins 186.94.55.189 8080 ﬂVenezuela Z Z H'|'|'P High
+tmp/all_text.txt:11h 44mins 183.221.187.252 8123 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:12h 2mins 27.200.89.238 9797 - China — Z H'|'|'P Low
+tmp/all_text.txt:12h 15mins 46.50.175.146 3128 — Russia Z Z H'|'|'PS High +KA
+tmp/all_text.txt:12h 16mins 190.77.170.249 8080 ﬂVenezuela I Z H'|'|'P High
+tmp/all_text.txt:12h 23mins 183.207.224.50 81 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:12h 23mins 190.37.227.229 8080 ﬂVenezuela I Z H'|'|'PS High +KA
+tmp/all_text.txt:12h 27mins 61.184.192.42 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:12h 29mins 120.203.149.162 8001 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:12h 33mins 183.207.228.9 81 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:12h 34mins 60.191.39.252 80 - China - Z H'|'|'P High +KA
+tmp/all_text.txt:12h 35mins 58.62.55.170 9797 - China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:12h 37mins 118.97.180.146 8080 '- Indonesia Z Z H'|'|'PS High +KA
+tmp/all_text.txt:12h 45mins 81.82.90.137 80 - Belgium Z Z H'|'|'P High +KA
+tmp/all_text.txt:12h 48mins 190.142.189.168 8080 ﬂVenezuela — Z H'|'|'PS High +KA
+tmp/all_text.txt:12h 53mins 196.45.51.27 8080 I I Nigeria Z Z H'|'|'PS High +KA
+tmp/all_text.txt:13h 3mins 195.169.195.125 80 = Netherlands Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 4mins 124.202.177.166 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 6mins 186.88.32.150 8080 ﬂVenezuela Z Z H'|'|'P High
+tmp/all_text.txt:13h 7mins 124.88.67.20 80 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 12mins 121.10.252.139 3128 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:13h 14mins 183.207.224.15 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 18mins 182.92.64.30 8080 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 19mins 202.119.25.227 9999 -China Z Z H'|'|'P Low
+tmp/all_text.txt:13h 27mins 186.94.56.214 8080 ﬂVenezuela Z Z H'|'|'PS High +KA
+tmp/all_text.txt:13h 30mins 58.251.132.181 8888 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 38mins 120.131.128.214 80 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:13h 38mins 183.207.228.7 8158 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 47mins 183.230.53.128 8123 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 48mins 124.202.182.198 8118 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 50mins 183.207.224.51 80 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 52mins 182.92.240.197 8080 -China I Z H'|'|'P High +KA
+tmp/all_text.txt:13h 52mins 183.207.224.51 83 - China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 54mins 183.207.237.11 80 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 54mins 114.112.91.115 94 -China Z Z H'|'|'P High +KA
+tmp/all_text.txt:13h 55mins 61.157.198.67 8080 -China Z Z H'|'|'PS High +KA
+tmp/all_text.txt:13h 55mins 85.214.85.193 8118 [|France Z Z H'|'|'P High +KA
+tmp/all_text.txt:212.55.51.55 50 I Turkey a’}a§a’}a§s§ Anonymous 03 34
+tmp/all_text.txt:59.154.195.54 5055 §  a’}a§a’}a§s§ Anonymous 00 27
+tmp/all_text.txt:42.121.105.155 5555 I Chma a’}a§a’}a§s§ Anonymous 13 45
+tmp/all_text.txt:202.75.215.235 50 I Chma a’}a§a’}a§s§ Anonymous 00 00
+tmp/all_text.txt:119.157.113.215 51 I Chma ﬁﬁﬁakﬁ Anonymous 13 25
+tmp/all_text.txt:122.94.30.55 5115 I Chma a’}a§a’}a§s§ Anonymous 09 09
+tmp/all_text.txt:124.55.57.5 51 I Chma a’}a§a’}a§s§ Anonymous 05 47
+tmp/all_text.txt:114.244.215.59 5115 I Chma a’}a§a’}a§s§ Anonymous 05 25
+tmp/all_text.txt:59.55.152.141 555 I Chma a’}a§a’}a§s§ Anonymous 10 07
+tmp/all_text.txt:113.142.37.245 50 I Chma ﬁﬁﬁakﬁ Anonymous 00 33
+tmp/all_text.txt:222.45.195.53 5115 I Chma a’}a§a’}a§s§ Anonymous 10 52
+tmp/all_text.txt:222.92.141.250 50 I Chma a’}a§a’}a§s§ Anonymous 0105
+tmp/all_text.txt:120.25.202.215 50 I Chma a’}a§a’}a§s§ Anonymous 05 45
+tmp/all_text.txt:79.124.13.250 5005 - BuIg5r\5 a’}a§a’}a§s§ Anonymous 515- 09 45
+tmp/all_text.txt:112.244.151.157 5115 I Chma a’}a§a’}a§s§ Anonymous 513- 1137
+tmp/all_text.txt:119.5.144.74 51 I Chma a’}a§a’}a§s§ Anonymous 03 44
+tmp/all_text.txt:195.200.45.197 3125 §  3’}3’}3’}3’ks’} No 11 11
+tmp/all_text.txt:59.127.175.95 5050 El Taxwan a’}a§a’}a§s§ Anonymous 05 07
+tmp/all_text.txt:124.55.57.40 53 I Chma a’}a§a’}a§s§ Anonymous 01 37
+tmp/all_text.txt:114.112.91.97 90 I Chma a’}a§a’}a§s§ Anonymous 1 21 12 05
+tmp/all_text.txt:203.172.235.134 5050 a’}a§a’}a§s§ Anonymous 15 05
+tmp/all_text.txt:210.101.131.227 5050 a’}a§a’}a§s§ Anonymous 07 23
+tmp/all_text.txt:199.200.120.35 7505 a’}a§a’}a§s§ Anonymous 12 05
+tmp/all_text.txt:211.77.5.35 5051 El Taxwan a’}a§a’}a§s§ Anonymous I 17 35
+tmp/all_text.txt:157.114.144.14 3125 §  a’}a§a’}a§s§ Anonymous 0109
+tmp/all_text.txt:119.97.154.45 5055 I Chma a’}a§a’}a§s§ Anonymous 10 30
+tmp/all_text.txt:153.135.135.153 5050 I Chma a’}a§a’}a§s§ Anonymous 03 35
+tmp/all_text.txt:54.75.225.32 50 §  a’}a§a’}a§s§ Anonymous 3 04 30
+tmp/all_text.txt:202.195.151.25 5055 I Chma a’}a§a’}a§s§ Anonymous i 07 04
+tmp/all_text.txt:199.200.120.37 7505 §  a’}a§a’}a§s§ Anonymous 12 05
+tmp/all_text.txt:175.135.195.53 5050 M5I5ys\5 a’}a§a’}a§s§ Anonymous 04 37
+tmp/all_text.txt:175.31.135.157 50 J France a’}a§a’}a§s§ Anonymous 00 34
+tmp/all_text.txt:124.55.57.20 50 I Chma a’}a§a’}a§s§ Anonymous 3 1014
+tmp/all_text.txt:222.45.195.19 5115 I Chma a’}a§a’}a§s§ Anonymous Q 1515
+tmp/all_text.txt:202.95.247.113 50 I Chma a’}a§a’}a§s§ Anonymous E 12 01
+tmp/all_text.txt:213.151.59.71 50 _ Rigeumc a’}a§a’}a§s§ Anonymous 2 E 12 51
+tmp/all_text.txt:203.110.150.14 5050 I Chma a’}a§a’}a§s§ Anonymous 3 02 35
+tmp/all_text.txt:95.155.217.24 3125 _ Rigeumc a’}a§a’}a§s§ Anonymous 5 14 43
+tmp/all_text.txt:211.77.5.41 50 El Taxwan a’}a§a’}a§s§ Anonymous I 07 45
+tmp/all_text.txt:114.32.254.105 5050 El Taxwan a’}a§a’}a§s§ Anonymous 4:: 14 29
+images/proxyspy/list.txt:187.126.31.191:8080 BR-N-S 
+images/proxyspy/list.txt:91.109.244.96:3128 GB-N 
+images/proxyspy/list.txt:92.63.171.140:8118 NL-H 
+images/proxyspy/list.txt:190.198.158.34:8080 VE-A 
+images/proxyspy/list.txt:91.121.167.5:8118 FR-H 
+images/proxyspy/list.txt:84.253.75.6:8080 RU-A-S 
+images/proxyspy/list.txt:178.158.247.213:3128 UA-N-S 
+images/proxyspy/list.txt:54.93.77.63:3128 DE-A-S 
+images/proxyspy/list.txt:54.149.140.120:3128 US-N-S 
+images/proxyspy/list.txt:186.225.37.137:8080 BR-N-S! 
+images/proxyspy/list.txt:162.243.155.182:3333 US-N 
+images/proxyspy/list.txt:85.70.179.49:8080 CZ-N-S 
+images/proxyspy/list.txt:122.72.62.60:80 CN-N 
+images/proxyspy/list.txt:200.169.142.73:80 BR-A! 
+images/proxyspy/list.txt:195.158.102.73:8080 MT-N-S 
+images/proxyspy/list.txt:183.203.208.169:8118 CN-A 
+images/proxyspy/list.txt:60.195.222.71:8118 CN-A 
+images/proxyspy/list.txt:196.201.7.172:8080 ZA-N 
+images/proxyspy/list.txt:125.167.183.193:8080 ID-N-S 
+images/proxyspy/list.txt:190.39.50.189:8080 VE-A 
+images/proxyspy/list.txt:54.64.140.6:8080 JP-N 
+images/proxyspy/list.txt:46.201.241.136:8080 UA-N 
+images/proxyspy/list.txt:80.69.243.156:9090 IR-N-S! 
+images/proxyspy/list.txt:193.105.235.1:8080 RU-N 
+images/proxyspy/list.txt:179.41.2.133:3128 AR-N-S 
+images/proxyspy/list.txt:175.43.20.95:80 CN-A-S 
+images/proxyspy/list.txt:89.46.101.115:3130 RO-N-S 
+images/proxyspy/list.txt:124.88.67.13:82 CN-A 
+images/proxyspy/list.txt:95.172.42.122:8080 RU-N-S 
+images/proxyspy/list.txt:109.207.54.81:8080 PL-N-S! 
+images/proxyspy/list.txt:84.38.176.55:8080 RU-N-S 
+images/proxyspy/list.txt:180.183.136.155:8080 TH-N-S 
+images/proxyspy/list.txt:220.248.41.106:110 CN-N-S 
+images/proxyspy/list.txt:41.222.44.42:8080 NG-N 
+images/proxyspy/list.txt:222.124.177.162:80 ID-N-S 
+images/proxyspy/list.txt:212.33.221.132:8080 IR-N-S 
+images/proxyspy/list.txt:186.121.210.226:8080 BO-N 
+images/proxyspy/list.txt:188.254.101.235:8000 RU-N-S 
+images/proxyspy/list.txt:197.254.115.110:8080 KE-N-S 
+images/proxyspy/list.txt:195.191.79.1:8080 RU-N! 
+images/proxyspy/list.txt:46.211.210.97:3128 UA-H 
+images/proxyspy/list.txt:115.28.11.130:3128 CN-N 
+images/proxyspy/list.txt:37.239.46.74:80 IQ-H 
+images/proxyspy/list.txt:200.11.228.84:3128 VE-A 
+images/proxyspy/list.txt:5.56.61.185:19350 ES-A-S 
+images/proxyspy/list.txt:109.207.50.105:8080 PL-N-S 
+images/proxyspy/list.txt:174.32.109.26:87 US-N! 
+images/proxyspy/list.txt:206.17.20.75:3128 US-N-S 
+images/proxyspy/list.txt:104.236.128.223:80 US-N 
+images/proxyspy/list.txt:82.151.117.162:8080 RU-N 
+images/proxyspy/list.txt:37.187.253.39:8118 FR-H-S! 
+images/proxyspy/list.txt:91.211.245.50:7808 LT-A 
+images/proxyspy/list.txt:54.69.229.8:8001 US-N 
+images/proxyspy/list.txt:58.254.132.81:8001 CN-N-S 
+images/proxyspy/list.txt:193.63.43.64:8000 GB-H! 
+images/proxyspy/list.txt:125.99.120.186:8080 IN-N 
+images/proxyspy/list.txt:180.183.50.231:8080 TH-N-S! 
+images/proxyspy/list.txt:186.116.8.170:8080 CO-N 
+images/proxyspy/list.txt:59.40.255.148:8118 CN-A 
+images/proxyspy/list.txt:124.88.67.24:83 CN-A 
+images/proxyspy/list.txt:219.223.190.90:3128 CN-N 
+images/proxyspy/list.txt:187.102.169.212:3128 BR-N! 
+images/proxyspy/list.txt:207.226.141.219:8118 US-H 
+images/proxyspy/list.txt:91.189.165.149:8080 RU-N-S 
+images/proxyspy/list.txt:180.211.159.166:8080 BD-N-S 
+images/proxyspy/list.txt:210.101.131.227:8080 KR-H 
+images/proxyspy/list.txt:212.3.183.218:8080 IT-A! 
+images/proxyspy/list.txt:176.194.189.56:8080 RU-N-S 
+images/proxyspy/list.txt:101.71.27.120:80 CN-A 
+images/proxyspy/list.txt:124.202.217.134:8118 CN-A! 
+images/proxyspy/list.txt:211.90.30.152:80 CN-N 
+images/proxyspy/list.txt:109.120.165.146:3128 RU-H 
+images/proxyspy/list.txt:183.131.144.204:443 CN-H 
+images/proxyspy/list.txt:197.254.118.14:8080 KE-N 
+images/proxyspy/list.txt:31.146.182.122:443 GE-N-S 
+images/proxyspy/list.txt:183.136.135.153:8080 CN-A 
+images/proxyspy/list.txt:27.106.33.161:8080 IN-N! 
+images/proxyspy/list.txt:187.102.169.210:3128 BR-N 
+images/proxyspy/list.txt:119.110.73.130:8080 ID-N-S 
+images/proxyspy/list.txt:54.173.249.44:3128 US-N 
+images/proxyspy/list.txt:91.229.20.73:80 FR-H 
+images/proxyspy/list.txt:84.236.134.2:8080 ES-N! 
+images/proxyspy/list.txt:83.146.70.84:3128 RU-N-S 
+images/proxyspy/list.txt:79.124.13.250:8008 BG-H 
+images/proxyspy/list.txt:54.187.52.159:3128 US-N! 
+images/proxyspy/list.txt:80.191.193.31:3128 IR-N 
+images/proxyspy/list.txt:111.243.114.159:8118 TW-H-S 
+images/proxyspy/list.txt:69.57.48.251:8080 US-N-S 
+images/proxyspy/list.txt:77.50.220.92:8080 RU-N! 
+images/proxyspy/list.txt:54.64.75.254:80 JP-A 
+images/proxyspy/list.txt:86.107.110.73:8089 RO-A 
+images/proxyspy/list.txt:109.197.92.60:8080 RU-N-S 
+images/proxyspy/list.txt:103.245.181.107:8080 ID-N-S 
+images/proxyspy/list.txt:115.117.45.8:8080 IN-N-S 
+images/proxyspy/list.txt:177.86.24.194:8080 BR-N 
+images/proxyspy/list.txt:200.253.116.3:3128 BR-N 
+images/proxyspy/list.txt:191.240.139.128:8080 BR-N! 
+images/proxyspy/list.txt:77.37.130.244:8080 RU-H 
+images/proxyspy/list.txt:222.89.154.18:8080 CN-N-S! 
+images/proxyspy/list.txt:179.107.142.54:3128 BR-A-S! 
+images/proxyspy/list.txt:109.207.53.26:8080 PL-N-S 
+images/proxyspy/list.txt:80.191.227.247:8080 IR-N 
+images/proxyspy/list.txt:212.25.61.158:8080 BG-N 
+images/proxyspy/list.txt:146.148.120.126:3128 US-N 
+images/proxyspy/list.txt:87.119.208.30:80 DE-H 
+images/proxyspy/list.txt:177.159.142.66:8080 BR-N-S 
+images/proxyspy/list.txt:167.114.144.14:3128 CA-A-S 
+images/proxyspy/list.txt:81.181.81.26:3128 RO-N-S 
+images/proxyspy/list.txt:37.187.97.36:3128 FR-A 
+images/proxyspy/list.txt:201.59.174.194:80 BR-N 
+images/proxyspy/list.txt:217.107.192.35:3128 RU-N 
+images/proxyspy/list.txt:88.159.239.129:80 NL-A 
+images/proxyspy/list.txt:211.68.122.171:80 CN-N 
+images/proxyspy/list.txt:222.124.12.19:8080 ID-A 
+images/proxyspy/list.txt:195.189.123.135:3128 RU-N 
+images/proxyspy/list.txt:106.185.41.170:8081 JP-A 
+images/proxyspy/list.txt:112.150.156.223:3128 KR-N-S 
+images/proxyspy/list.txt:59.144.8.142:8080 IN-A-S! 
+images/proxyspy/list.txt:130.211.139.38:3128 US-H 
+images/proxyspy/list.txt:194.44.193.49:8080 UA-N-S! 
+images/proxyspy/list.txt:177.38.37.235:3128 BR-N-S 
+images/proxyspy/list.txt:203.130.194.60:8080 ID-N-S! 
+images/proxyspy/list.txt:190.234.83.82:8080 PE-N 
+images/proxyspy/list.txt:125.39.66.66:80 CN-N 
+images/proxyspy/list.txt:138.0.253.18:8080 BR-A! 
+images/proxyspy/list.txt:5.133.13.12:7777 PL-N-S 
+images/proxyspy/list.txt:208.74.182.153:3128 US-N 
+images/proxyspy/list.txt:109.207.51.254:8080 PL-N-S 
+images/proxyspy/list.txt:219.137.229.146:9797 CN-N 
+images/proxyspy/list.txt:118.229.239.17:8080 CN-N 
+images/proxyspy/list.txt:195.208.151.61:8080 RU-N-S 
+images/proxyspy/list.txt:119.2.66.222:8080 ID-N-S 
+images/proxyspy/list.txt:219.133.31.120:8888 CN-H 
+images/proxyspy/list.txt:202.93.128.42:8080 ID-N 
+images/proxyspy/list.txt:83.220.42.106:8080 RU-N 
+images/proxyspy/list.txt:187.123.60.149:3128 BR-N 
+images/proxyspy/list.txt:37.187.152.232:80 FR-A 
+images/proxyspy/list.txt:175.136.239.174:8080 MY-N 
+images/proxyspy/list.txt:60.207.228.235:80 CN-N 
+images/proxyspy/list.txt:27.44.172.155:9999 CN-N-S 
+images/proxyspy/list.txt:104.154.65.74:3128 US-H 
+images/proxyspy/list.txt:88.150.136.181:3129 GB-A! 
+images/proxyspy/list.txt:37.200.99.210:8118 DE-H-S! 
+images/proxyspy/list.txt:45.55.183.138:3128 US-A 
+images/proxyspy/list.txt:202.55.23.144:80 HK-N! 
+images/proxyspy/list.txt:87.251.187.34:8080 RU-N-S 
+images/proxyspy/list.txt:87.237.44.27:8080 RU-N-S 
+images/proxyspy/list.txt:101.4.136.66:80 CN-A 
+images/proxyspy/list.txt:54.64.0.171:3128 JP-N 
+images/proxyspy/list.txt:185.37.226.107:18055 ES-A-S 
+images/proxyspy/list.txt:211.141.133.100:8118 CN-A 
+images/proxyspy/list.txt:112.124.51.136:808 CN-H-S 
+images/proxyspy/list.txt:202.108.50.75:80 CN-A 
+images/proxyspy/list.txt:210.245.31.15:80 VN-H-S 
+images/proxyspy/list.txt:182.18.58.2:9080 CN-A 
+images/proxyspy/list.txt:181.224.230.25:8080 PE-N! 
+images/proxyspy/list.txt:212.13.49.186:8085 PT-N-S 
+images/proxyspy/list.txt:85.202.7.27:8080 RU-N 
+images/proxyspy/list.txt:177.126.89.27:3128 BR-N-S 
+images/proxyspy/list.txt:62.209.225.107:8080 CZ-N 
+images/proxyspy/list.txt:109.224.56.210:8080 IQ-N 
+images/proxyspy/list.txt:1.227.56.236:3128 KR-N-S 
+images/proxyspy/list.txt:117.121.17.104:8080 CN-N 
+images/proxyspy/list.txt:179.185.111.26:8080 BR-N 
+images/proxyspy/list.txt:184.172.188.36:80 US-H 
+images/proxyspy/list.txt:163.177.79.4:8102 CN-N 
+images/proxyspy/list.txt:196.201.218.203:7425 KE-H 
+images/proxyspy/list.txt:201.163.96.102:8080 MX-N 
+images/proxyspy/list.txt:62.109.30.95:3128 RU-N 
+images/proxyspy/list.txt:190.200.33.219:8080 VE-A 
+images/proxyspy/list.txt:86.57.137.219:3128 BY-H 
+images/proxyspy/list.txt:202.100.166.132:80 CN-A 
+images/proxyspy/list.txt:124.202.208.18:8118 CN-A! 
+images/proxyspy/list.txt:36.78.166.126:8080 ID-N 
+images/proxyspy/list.txt:79.143.181.127:3128 DE-A-S 
+images/proxyspy/list.txt:119.28.3.200:83 CN-A 
+images/proxyspy/list.txt:78.131.56.64:8080 HU-N 
+images/proxyspy/list.txt:124.202.181.6:8118 CN-A! 
+images/proxyspy/list.txt:201.248.247.187:8080 VE-A 
+images/proxyspy/list.txt:190.152.212.194:3128 EC-N 
+images/proxyspy/list.txt:114.80.182.132:80 CN-A 
+images/proxyspy/list.txt:199.200.120.37:3127 US-A 
+images/proxyspy/list.txt:89.23.196.60:8081 RU-N-S 
+images/proxyspy/list.txt:183.91.87.66:8080 ID-N 
+images/proxyspy/list.txt:188.165.223.173:8112 FR-H! 
+images/proxyspy/list.txt:77.78.31.3:8080 BG-N-S 
+images/proxyspy/list.txt:64.76.23.186:80 AR-H! 
+images/proxyspy/list.txt:92.50.31.129:8080 IR-N-S 
+images/proxyspy/list.txt:94.158.175.226:8080 RU-N-S 
+images/proxyspy/list.txt:197.160.78.96:8080 EG-N 
+images/proxyspy/list.txt:195.154.136.111:3128 FR-A-S 
+images/proxyspy/list.txt:64.186.47.179:8080 US-N 
+images/proxyspy/list.txt:82.117.234.20:8888 UA-N! 
+images/proxyspy/list.txt:212.68.34.72:8080 TR-N-S! 
+images/proxyspy/list.txt:81.29.251.177:8080 IR-N 
+images/proxyspy/list.txt:58.68.145.39:80 CN-N-S 
+images/proxyspy/list.txt:177.6.219.147:8080 BR-N-S 
+images/proxyspy/list.txt:191.236.195.80:8080 US-A-S 
+images/proxyspy/list.txt:5.226.86.83:80 PL-H 
+images/proxyspy/list.txt:189.17.66.162:8080 BR-N 
+images/proxyspy/list.txt:78.47.35.29:8080 DE-N-S 
+images/proxyspy/list.txt:180.254.187.23:8080 ID-N-S 
+images/proxyspy/list.txt:119.252.169.212:8080 ID-N 
+images/proxyspy/list.txt:192.81.216.34:8989 US-A 
+images/proxyspy/list.txt:95.163.88.243:8080 RU-N! 
+images/proxyspy/list.txt:200.43.65.91:8080 AR-A! 
+images/proxyspy/list.txt:83.235.37.52:8080 GR-N! 
+images/proxyspy/list.txt:202.114.144.15:8088 CN-N 
+images/proxyspy/list.txt:202.99.16.28:3128 CN-N 
+images/proxyspy/list.txt:36.78.221.70:8080 ID-N-S 
+images/proxyspy/list.txt:91.202.38.144:3128 RU-N! 
+images/proxyspy/list.txt:190.136.18.33:8090 AR-A-S! 
+images/proxyspy/list.txt:151.237.84.46:8081 BG-N-S 
+images/proxyspy/list.txt:162.223.88.243:80 US-N-S 
+images/proxyspy/list.txt:203.81.162.211:3128 MM-N 
+images/proxyspy/list.txt:209.20.78.169:3128 US-N 
+images/proxyspy/list.txt:88.150.136.181:3128 GB-A! 
+images/proxyspy/list.txt:94.139.204.185:8080 BG-N-S 
+images/proxyspy/list.txt:109.124.220.1:8080 RU-H-S 
+images/proxyspy/list.txt:89.191.147.4:8118 PL-H! 
+images/proxyspy/list.txt:186.229.6.202:8080 BR-A 
+images/proxyspy/list.txt:181.88.177.145:8080 AR-H-S! 
+images/proxyspy/list.txt:191.239.48.98:80 US-A 
+images/proxyspy/list.txt:106.120.19.58:8118 CN-A 
+images/proxyspy/list.txt:61.232.6.164:8081 CN-N 
+images/proxyspy/list.txt:114.141.47.173:80 KR-N 
+images/proxyspy/list.txt:176.110.163.230:3128 RU-N 
+images/proxyspy/list.txt:61.154.127.136:10001 CN-H-S 
+images/proxyspy/list.txt:123.125.114.167:80 CN-N! 
+images/proxyspy/list.txt:163.177.79.5:80 CN-N! 
+images/proxyspy/list.txt:87.255.87.107:3128 MD-A-S! 
+images/proxyspy/list.txt:178.85.145.20:80 NL-A 
+images/proxyspy/list.txt:128.199.99.56:3128 SG-N 
+images/proxyspy/list.txt:189.55.182.120:3128 BR-N 
+images/proxyspy/list.txt:62.205.162.68:3128 RU-N 
+images/proxyspy/list.txt:185.14.250.251:8080 IQ-N 
+images/proxyspy/list.txt:80.232.220.51:3128 LV-N-S 
+images/proxyspy/list.txt:195.184.216.70:8080 UA-N-S! 
+images/proxyspy/list.txt:177.7.4.132:3128 BR-N 
+images/proxyspy/list.txt:187.0.222.167:3128 BR-N 
+images/proxyspy/list.txt:119.6.144.74:843 CN-A 
+images/proxyspy/list.txt:180.210.48.130:8080 KR-N 
+images/proxyspy/list.txt:118.96.223.152:8080 ID-H 
+images/proxyspy/list.txt:181.225.96.14:8080 CO-N 
+images/proxyspy/list.txt:54.241.4.210:80 US-N 
+images/proxyspy/list.txt:190.184.144.141:8080 CO-N-S 
+images/proxyspy/list.txt:104.154.58.149:3128 US-N 
+images/proxyspy/list.txt:84.196.166.230:80 BE-A 
+images/proxyspy/list.txt:196.201.218.199:1048 KE-H 
+images/proxyspy/list.txt:94.84.174.26:8080 IT-A 
+images/proxyspy/list.txt:80.237.22.46:8080 RU-N-S 
+images/proxyspy/list.txt:41.73.117.194:8080 ML-N-S 
+images/proxyspy/list.txt:130.211.168.135:3128 US-N 
+images/proxyspy/list.txt:85.105.20.114:8080 TR-N-S 
+images/proxyspy/list.txt:209.150.233.83:8080 US-N-S 
+images/proxyspy/list.txt:84.30.55.34:80 NL-A 
+images/proxyspy/list.txt:110.173.0.58:8080 CN-N-S 
+images/proxyspy/list.txt:216.171.205.9:8080 US-N 
+images/proxyspy/list.txt:85.113.253.138:80 NL-A 
+images/proxyspy/list.txt:123.125.19.44:80 CN-H-S 
+images/proxyspy/list.txt:201.132.118.114:8080 MX-N 
+images/proxyspy/list.txt:58.251.78.71:8088 CN-H-S! 
+images/proxyspy/list.txt:175.139.136.245:8080 MY-N-S 
+images/proxyspy/list.txt:213.24.60.52:8080 RU-A 
+images/proxyspy/list.txt:109.194.20.27:3128 RU-A-S 
+images/proxyspy/list.txt:60.223.236.44:9797 CN-N-S 
+images/proxyspy/list.txt:183.207.228.44:80 CN-A! 
+images/proxyspy/list.txt:169.53.135.16:3128 US-N 
+images/proxyspy/list.txt:187.7.215.91:8080 BR-N-S 
+images/proxyspy/list.txt:220.181.32.106:80 CN-N! 
+images/proxyspy/list.txt:210.57.208.14:80 ID-H 
+images/proxyspy/list.txt:114.215.119.238:3128 CN-A-S 
+images/proxyspy/list.txt:122.225.106.40:80 CN-N 
+images/proxyspy/list.txt:130.255.61.211:3128 RU-H-S 
+images/proxyspy/list.txt:213.197.62.87:80 NL-A 
+images/proxyspy/list.txt:46.209.216.100:8080 IR-N 
+images/proxyspy/list.txt:202.108.23.247:80 CN-N! 
+images/proxyspy/list.txt:88.150.136.178:3128 GB-A 
+images/proxyspy/list.txt:142.4.200.173:8118 US-H 
+images/proxyspy/list.txt:115.239.210.199:80 CN-N! 
+images/proxyspy/list.txt:91.143.50.151:3128 RU-H 
+images/proxyspy/list.txt:62.176.13.22:8088 RU-N 
+images/proxyspy/list.txt:188.166.51.208:80 NL-A 
+images/proxyspy/list.txt:27.145.145.105:8080 TH-N 
+images/proxyspy/list.txt:1.175.45.181:37564 TW-H-S 
+images/proxyspy/list.txt:109.207.49.190:8080 PL-N-S 
+images/proxyspy/list.txt:82.200.217.66:3128 KZ-N-S 
+images/proxyspy/list.txt:63.234.205.110:8080 US-A 
+images/proxyspy/list.txt:222.124.177.162:8080 ID-N-S 
+images/proxyspy/list.txt:66.175.209.38:8118 US-H! 
+images/proxyspy/list.txt:201.48.186.74:8080 BR-N 
+images/proxyspy/list.txt:58.252.72.179:3128 CN-A-S 
+images/proxyspy/list.txt:88.82.172.237:7777 RU-N 
+images/proxyspy/list.txt:108.192.136.193:3128 US-N 
+images/proxyspy/list.txt:117.79.64.29:80 CN-N! 
+images/proxyspy/list.txt:82.246.58.59:3128 FR-A 
+images/proxyspy/list.txt:91.147.247.122:21320 HU-H-S 
+images/proxyspy/list.txt:187.123.185.40:3128 BR-N 
+images/proxyspy/list.txt:91.244.115.106:8080 RU-N 
+images/proxyspy/list.txt:164.138.237.170:8080 IQ-N-S
+187.126.31.191:8080 BR-N-S 
+91.109.244.96:3128 GB-N 
+92.63.171.140:8118 NL-H 
+190.198.158.34:8080 VE-A 
+91.121.167.5:8118 FR-H 
+84.253.75.6:8080 RU-A-S 
+178.158.247.213:3128 UA-N-S 
+54.93.77.63:3128 DE-A-S 
+54.149.140.120:3128 US-N-S 
+186.225.37.137:8080 BR-N-S! 
+162.243.155.182:3333 US-N 
+85.70.179.49:8080 CZ-N-S 
+122.72.62.60:80 CN-N 
+200.169.142.73:80 BR-A! 
+195.158.102.73:8080 MT-N-S 
+183.203.208.169:8118 CN-A 
+60.195.222.71:8118 CN-A 
+196.201.7.172:8080 ZA-N 
+125.167.183.193:8080 ID-N-S 
+190.39.50.189:8080 VE-A 
+54.64.140.6:8080 JP-N 
+46.201.241.136:8080 UA-N 
+80.69.243.156:9090 IR-N-S! 
+193.105.235.1:8080 RU-N 
+179.41.2.133:3128 AR-N-S 
+175.43.20.95:80 CN-A-S 
+89.46.101.115:3130 RO-N-S 
+124.88.67.13:82 CN-A 
+95.172.42.122:8080 RU-N-S 
+109.207.54.81:8080 PL-N-S! 
+84.38.176.55:8080 RU-N-S 
+180.183.136.155:8080 TH-N-S 
+220.248.41.106:110 CN-N-S 
+41.222.44.42:8080 NG-N 
+222.124.177.162:80 ID-N-S 
+212.33.221.132:8080 IR-N-S 
+186.121.210.226:8080 BO-N 
+188.254.101.235:8000 RU-N-S 
+197.254.115.110:8080 KE-N-S 
+195.191.79.1:8080 RU-N! 
+46.211.210.97:3128 UA-H 
+115.28.11.130:3128 CN-N 
+37.239.46.74:80 IQ-H 
+200.11.228.84:3128 VE-A 
+5.56.61.185:19350 ES-A-S 
+109.207.50.105:8080 PL-N-S 
+174.32.109.26:87 US-N! 
+206.17.20.75:3128 US-N-S 
+104.236.128.223:80 US-N 
+82.151.117.162:8080 RU-N 
+37.187.253.39:8118 FR-H-S! 
+91.211.245.50:7808 LT-A 
+54.69.229.8:8001 US-N 
+58.254.132.81:8001 CN-N-S 
+193.63.43.64:8000 GB-H! 
+125.99.120.186:8080 IN-N 
+180.183.50.231:8080 TH-N-S! 
+186.116.8.170:8080 CO-N 
+59.40.255.148:8118 CN-A 
+124.88.67.24:83 CN-A 
+219.223.190.90:3128 CN-N 
+187.102.169.212:3128 BR-N! 
+207.226.141.219:8118 US-H 
+91.189.165.149:8080 RU-N-S 
+180.211.159.166:8080 BD-N-S 
+210.101.131.227:8080 KR-H 
+212.3.183.218:8080 IT-A! 
+176.194.189.56:8080 RU-N-S 
+101.71.27.120:80 CN-A 
+124.202.217.134:8118 CN-A! 
+211.90.30.152:80 CN-N 
+109.120.165.146:3128 RU-H 
+183.131.144.204:443 CN-H 
+197.254.118.14:8080 KE-N 
+31.146.182.122:443 GE-N-S 
+183.136.135.153:8080 CN-A 
+27.106.33.161:8080 IN-N! 
+187.102.169.210:3128 BR-N 
+119.110.73.130:8080 ID-N-S 
+54.173.249.44:3128 US-N 
+91.229.20.73:80 FR-H 
+84.236.134.2:8080 ES-N! 
+83.146.70.84:3128 RU-N-S 
+79.124.13.250:8008 BG-H 
+54.187.52.159:3128 US-N! 
+80.191.193.31:3128 IR-N 
+111.243.114.159:8118 TW-H-S 
+69.57.48.251:8080 US-N-S 
+77.50.220.92:8080 RU-N! 
+54.64.75.254:80 JP-A 
+86.107.110.73:8089 RO-A 
+109.197.92.60:8080 RU-N-S 
+103.245.181.107:8080 ID-N-S 
+115.117.45.8:8080 IN-N-S 
+177.86.24.194:8080 BR-N 
+200.253.116.3:3128 BR-N 
+191.240.139.128:8080 BR-N! 
+77.37.130.244:8080 RU-H 
+222.89.154.18:8080 CN-N-S! 
+179.107.142.54:3128 BR-A-S! 
+109.207.53.26:8080 PL-N-S 
+80.191.227.247:8080 IR-N 
+212.25.61.158:8080 BG-N 
+146.148.120.126:3128 US-N 
+87.119.208.30:80 DE-H 
+177.159.142.66:8080 BR-N-S 
+167.114.144.14:3128 CA-A-S 
+81.181.81.26:3128 RO-N-S 
+37.187.97.36:3128 FR-A 
+201.59.174.194:80 BR-N 
+217.107.192.35:3128 RU-N 
+88.159.239.129:80 NL-A 
+211.68.122.171:80 CN-N 
+222.124.12.19:8080 ID-A 
+195.189.123.135:3128 RU-N 
+106.185.41.170:8081 JP-A 
+112.150.156.223:3128 KR-N-S 
+59.144.8.142:8080 IN-A-S! 
+130.211.139.38:3128 US-H 
+194.44.193.49:8080 UA-N-S! 
+177.38.37.235:3128 BR-N-S 
+203.130.194.60:8080 ID-N-S! 
+190.234.83.82:8080 PE-N 
+125.39.66.66:80 CN-N 
+138.0.253.18:8080 BR-A! 
+5.133.13.12:7777 PL-N-S 
+208.74.182.153:3128 US-N 
+109.207.51.254:8080 PL-N-S 
+219.137.229.146:9797 CN-N 
+118.229.239.17:8080 CN-N 
+195.208.151.61:8080 RU-N-S 
+119.2.66.222:8080 ID-N-S 
+219.133.31.120:8888 CN-H 
+202.93.128.42:8080 ID-N 
+83.220.42.106:8080 RU-N 
+187.123.60.149:3128 BR-N 
+37.187.152.232:80 FR-A 
+175.136.239.174:8080 MY-N 
+60.207.228.235:80 CN-N 
+27.44.172.155:9999 CN-N-S 
+104.154.65.74:3128 US-H 
+88.150.136.181:3129 GB-A! 
+37.200.99.210:8118 DE-H-S! 
+45.55.183.138:3128 US-A 
+202.55.23.144:80 HK-N! 
+87.251.187.34:8080 RU-N-S 
+87.237.44.27:8080 RU-N-S 
+101.4.136.66:80 CN-A 
+54.64.0.171:3128 JP-N 
+185.37.226.107:18055 ES-A-S 
+211.141.133.100:8118 CN-A 
+112.124.51.136:808 CN-H-S 
+202.108.50.75:80 CN-A 
+210.245.31.15:80 VN-H-S 
+182.18.58.2:9080 CN-A 
+181.224.230.25:8080 PE-N! 
+212.13.49.186:8085 PT-N-S 
+85.202.7.27:8080 RU-N 
+177.126.89.27:3128 BR-N-S 
+62.209.225.107:8080 CZ-N 
+109.224.56.210:8080 IQ-N 
+1.227.56.236:3128 KR-N-S 
+117.121.17.104:8080 CN-N 
+179.185.111.26:8080 BR-N 
+184.172.188.36:80 US-H 
+163.177.79.4:8102 CN-N 
+196.201.218.203:7425 KE-H 
+201.163.96.102:8080 MX-N 
+62.109.30.95:3128 RU-N 
+190.200.33.219:8080 VE-A 
+86.57.137.219:3128 BY-H 
+202.100.166.132:80 CN-A 
+124.202.208.18:8118 CN-A! 
+36.78.166.126:8080 ID-N 
+79.143.181.127:3128 DE-A-S 
+119.28.3.200:83 CN-A 
+78.131.56.64:8080 HU-N 
+124.202.181.6:8118 CN-A! 
+201.248.247.187:8080 VE-A 
+190.152.212.194:3128 EC-N 
+114.80.182.132:80 CN-A 
+199.200.120.37:3127 US-A 
+89.23.196.60:8081 RU-N-S 
+183.91.87.66:8080 ID-N 
+188.165.223.173:8112 FR-H! 
+77.78.31.3:8080 BG-N-S 
+64.76.23.186:80 AR-H! 
+92.50.31.129:8080 IR-N-S 
+94.158.175.226:8080 RU-N-S 
+197.160.78.96:8080 EG-N 
+195.154.136.111:3128 FR-A-S 
+64.186.47.179:8080 US-N 
+82.117.234.20:8888 UA-N! 
+212.68.34.72:8080 TR-N-S! 
+81.29.251.177:8080 IR-N 
+58.68.145.39:80 CN-N-S 
+177.6.219.147:8080 BR-N-S 
+191.236.195.80:8080 US-A-S 
+5.226.86.83:80 PL-H 
+189.17.66.162:8080 BR-N 
+78.47.35.29:8080 DE-N-S 
+180.254.187.23:8080 ID-N-S 
+119.252.169.212:8080 ID-N 
+192.81.216.34:8989 US-A 
+95.163.88.243:8080 RU-N! 
+200.43.65.91:8080 AR-A! 
+83.235.37.52:8080 GR-N! 
+202.114.144.15:8088 CN-N 
+202.99.16.28:3128 CN-N 
+36.78.221.70:8080 ID-N-S 
+91.202.38.144:3128 RU-N! 
+190.136.18.33:8090 AR-A-S! 
+151.237.84.46:8081 BG-N-S 
+162.223.88.243:80 US-N-S 
+203.81.162.211:3128 MM-N 
+209.20.78.169:3128 US-N 
+88.150.136.181:3128 GB-A! 
+94.139.204.185:8080 BG-N-S 
+109.124.220.1:8080 RU-H-S 
+89.191.147.4:8118 PL-H! 
+186.229.6.202:8080 BR-A 
+181.88.177.145:8080 AR-H-S! 
+191.239.48.98:80 US-A 
+106.120.19.58:8118 CN-A 
+61.232.6.164:8081 CN-N 
+114.141.47.173:80 KR-N 
+176.110.163.230:3128 RU-N 
+61.154.127.136:10001 CN-H-S 
+123.125.114.167:80 CN-N! 
+163.177.79.5:80 CN-N! 
+87.255.87.107:3128 MD-A-S! 
+178.85.145.20:80 NL-A 
+128.199.99.56:3128 SG-N 
+189.55.182.120:3128 BR-N 
+62.205.162.68:3128 RU-N 
+185.14.250.251:8080 IQ-N 
+80.232.220.51:3128 LV-N-S 
+195.184.216.70:8080 UA-N-S! 
+177.7.4.132:3128 BR-N 
+187.0.222.167:3128 BR-N 
+119.6.144.74:843 CN-A 
+180.210.48.130:8080 KR-N 
+118.96.223.152:8080 ID-H 
+181.225.96.14:8080 CO-N 
+54.241.4.210:80 US-N 
+190.184.144.141:8080 CO-N-S 
+104.154.58.149:3128 US-N 
+84.196.166.230:80 BE-A 
+196.201.218.199:1048 KE-H 
+94.84.174.26:8080 IT-A 
+80.237.22.46:8080 RU-N-S 
+41.73.117.194:8080 ML-N-S 
+130.211.168.135:3128 US-N 
+85.105.20.114:8080 TR-N-S 
+209.150.233.83:8080 US-N-S 
+84.30.55.34:80 NL-A 
+110.173.0.58:8080 CN-N-S 
+216.171.205.9:8080 US-N 
+85.113.253.138:80 NL-A 
+123.125.19.44:80 CN-H-S 
+201.132.118.114:8080 MX-N 
+58.251.78.71:8088 CN-H-S! 
+175.139.136.245:8080 MY-N-S 
+213.24.60.52:8080 RU-A 
+109.194.20.27:3128 RU-A-S 
+60.223.236.44:9797 CN-N-S 
+183.207.228.44:80 CN-A! 
+169.53.135.16:3128 US-N 
+187.7.215.91:8080 BR-N-S 
+220.181.32.106:80 CN-N! 
+210.57.208.14:80 ID-H 
+114.215.119.238:3128 CN-A-S 
+122.225.106.40:80 CN-N 
+130.255.61.211:3128 RU-H-S 
+213.197.62.87:80 NL-A 
+46.209.216.100:8080 IR-N 
+202.108.23.247:80 CN-N! 
+88.150.136.178:3128 GB-A 
+142.4.200.173:8118 US-H 
+115.239.210.199:80 CN-N! 
+91.143.50.151:3128 RU-H 
+62.176.13.22:8088 RU-N 
+188.166.51.208:80 NL-A 
+27.145.145.105:8080 TH-N 
+1.175.45.181:37564 TW-H-S 
+109.207.49.190:8080 PL-N-S 
+82.200.217.66:3128 KZ-N-S 
+63.234.205.110:8080 US-A 
+222.124.177.162:8080 ID-N-S 
+66.175.209.38:8118 US-H! 
+201.48.186.74:8080 BR-N 
+58.252.72.179:3128 CN-A-S 
+88.82.172.237:7777 RU-N 
+108.192.136.193:3128 US-N 
+117.79.64.29:80 CN-N! 
+82.246.58.59:3128 FR-A 
+91.147.247.122:21320 HU-H-S 
+187.123.185.40:3128 BR-N 
+91.244.115.106:8080 RU-N 
+164.138.237.170:8080 IQ-N-S 
